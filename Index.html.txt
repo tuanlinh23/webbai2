@@ -1,0 +1,2538 @@
+
+<!DOCTYPE html>
+<!--[if IE 9 ]> <html lang="vi-VN" class="ie9 loading-site no-js bg-fill"> <![endif]-->
+<!--[if IE 8 ]> <html lang="vi-VN" class="ie8 loading-site no-js bg-fill"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="vi-VN" class="loading-site no-js bg-fill"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://atpro.com.vn/xmlrpc.php" />
+
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>ATPro Corp - Nhà sản xuất phần mềm, thiết bị công nghiệp hàng đầu Việt Nam</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v12.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Trang thương mại điện tử về các gói phần mềm SCADA, thiết bị tự động hóa công nghiệp, dân dụng. Cung cấp đa dạng các loại cảm biến và bộ chuyển đổi tín hiệu"/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://atpro.com.vn/" />
+<meta property="og:locale" content="vi_VN" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="ATPro Corp - Nhà sản xuất phần mềm, thiết bị công nghiệp hàng đầu Việt Nam" />
+<meta property="og:description" content="Trang thương mại điện tử về các gói phần mềm SCADA, thiết bị tự động hóa công nghiệp, dân dụng. Cung cấp đa dạng các loại cảm biến và bộ chuyển đổi tín hiệu" />
+<meta property="og:url" content="https://atpro.com.vn/" />
+<meta property="og:site_name" content="ATPro Corp - Nhà sản xuất phần mềm, thiết bị công nghiệp hàng đầu Việt Nam" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Trang thương mại điện tử về các gói phần mềm SCADA, thiết bị tự động hóa công nghiệp, dân dụng. Cung cấp đa dạng các loại cảm biến và bộ chuyển đổi tín hiệu" />
+<meta name="twitter:title" content="ATPro Corp - Nhà sản xuất phần mềm, thiết bị công nghiệp hàng đầu Việt Nam" />
+<meta name="twitter:site" content="@atprocorp" />
+<meta name="twitter:creator" content="@atprocorp" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://atpro.com.vn/#organization","name":"ATPro Corp","url":"https://atpro.com.vn/","sameAs":["https://www.facebook.com/atpro.com.vn/","https://www.youtube.com/channel/UCaTw26HfKF6A3SW4pRd4raA/","https://www.pinterest.com/Atprocorp/","https://twitter.com/atprocorp"],"logo":{"@type":"ImageObject","@id":"https://atpro.com.vn/#logo","url":"https://atpro.com.vn/wp-content/uploads/2019/05/logo-ATPro.png","width":210,"height":70,"caption":"ATPro Corp"},"image":{"@id":"https://atpro.com.vn/#logo"}},{"@type":"WebSite","@id":"https://atpro.com.vn/#website","url":"https://atpro.com.vn/","name":"ATPro Corp - Nh\u00e0 s\u1ea3n xu\u1ea5t ph\u1ea7n m\u1ec1m, thi\u1ebft b\u1ecb c\u00f4ng nghi\u1ec7p h\u00e0ng \u0111\u1ea7u Vi\u1ec7t Nam","publisher":{"@id":"https://atpro.com.vn/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://atpro.com.vn/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://atpro.com.vn/#webpage","url":"https://atpro.com.vn/","inLanguage":"vi-VN","name":"ATPro Corp - Nh\u00e0 s\u1ea3n xu\u1ea5t ph\u1ea7n m\u1ec1m, thi\u1ebft b\u1ecb c\u00f4ng nghi\u1ec7p h\u00e0ng \u0111\u1ea7u Vi\u1ec7t Nam","isPartOf":{"@id":"https://atpro.com.vn/#website"},"about":{"@id":"https://atpro.com.vn/#organization"},"datePublished":"2018-04-14T07:19:23+00:00","dateModified":"2019-10-31T04:28:50+00:00","description":"Trang th\u01b0\u01a1ng m\u1ea1i \u0111i\u1ec7n t\u1eed v\u1ec1 c\u00e1c g\u00f3i ph\u1ea7n m\u1ec1m SCADA, thi\u1ebft b\u1ecb t\u1ef1 \u0111\u1ed9ng h\u00f3a c\u00f4ng nghi\u1ec7p, d\u00e2n d\u1ee5ng. Cung c\u1ea5p \u0111a d\u1ea1ng c\u00e1c lo\u1ea1i c\u1ea3m bi\u1ebfn v\u00e0 b\u1ed9 chuy\u1ec3n \u0111\u1ed5i t\u00edn hi\u1ec7u"}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="amphtml" href="https://atpro.com.vn/amp/" /><meta name="generator" content="AMP for WP 1.0.27"/><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin ATPro Corp - Nhà sản xuất phần mềm, thiết bị công nghiệp hàng đầu Việt Nam &raquo;" href="https://atpro.com.vn/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi ATPro Corp - Nhà sản xuất phần mềm, thiết bị công nghiệp hàng đầu Việt Nam &raquo;" href="https://atpro.com.vn/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/atpro.com.vn\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://atpro.com.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://atpro.com.vn/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.4.5' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='https://atpro.com.vn/wp-includes/css/dashicons.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-icomoon-css'  href='https://atpro.com.vn/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.min.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-toc-css'  href='https://atpro.com.vn/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=1.7' type='text/css' media='all' />
+<style id='ez-toc-inline-css' type='text/css'>
+div#ez-toc-container p.ez-toc-title {font-size: 120%;}div#ez-toc-container p.ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 95%;}div#ez-toc-container {width: 66%;}
+</style>
+<link rel='stylesheet' id='flatsome-icons-css'  href='https://atpro.com.vn/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-main-css'  href='https://atpro.com.vn/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-shop-css'  href='https://atpro.com.vn/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-style-css'  href='https://atpro.com.vn/wp-content/themes/flatsome-child/style.css?ver=3.4.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://atpro.com.vn/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://atpro.com.vn/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://atpro.com.vn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://atpro.com.vn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.5" />
+<meta name="generator" content="WooCommerce 3.8.0" />
+<link rel='shortlink' href='https://atpro.com.vn/' />
+<link rel="alternate" type="application/json+oembed" href="https://atpro.com.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fatpro.com.vn%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://atpro.com.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fatpro.com.vn%2F&#038;format=xml" />
+<!-- site-navigation-element Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"C\u1ea2M BI\u1ebeN - SENSOR","url":"https:\/\/atpro.com.vn\/danh-muc\/cam-bien-cong-nghiep-hang-noi-tieng-the-gioi\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"THI\u1ebeT B\u1eca T\u1ef0 \u0110\u1ed8NG H\u00d3A","url":"#"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"PH\u1ea6N M\u1ec0M SCADA","url":"https:\/\/atpro.com.vn\/danh-muc\/phan-mem-scada-thuong-hieu-viet-atscada\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"M\u00c1Y T\u00cdNH C\u00d4NG NGHI\u1ec6P","url":"https:\/\/atpro.com.vn\/danh-muc\/may-tinh-cong-nghiep\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"M\u00c0N H\u00ccNH HMI","url":"https:\/\/atpro.com.vn\/danh-muc\/man-hinh-hmi\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"B\u1ed8 \u0110I\u1ec0U KHI\u1ec2N PLC","url":"https:\/\/atpro.com.vn\/danh-muc\/bo-dieu-khien-plc\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"B\u1ed8 CHUY\u1ec2N T\u00cdN HI\u1ec6U","url":"https:\/\/atpro.com.vn\/danh-muc\/bo-chuyen-tin-hieu\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"IoT GATEWAY","url":"https:\/\/atpro.com.vn\/danh-muc\/iot-gateway\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"GI\u1ea2I PH\u00c1P QU\u1ea2N L\u00dd","url":"https:\/\/atpro.com.vn\/danh-muc\/giai-phap-quan-ly\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"\u0110\u1ed2NG H\u1ed2 \u0110I\u1ec6N T\u1eec","url":"https:\/\/atpro.com.vn\/danh-muc\/dong-ho-dien-tu\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"QU\u1ea2N L\u00dd \u0110I\u1ec6N N\u0102NG","url":"https:\/\/atpro.com.vn\/danh-muc\/quan-ly-dien-nang\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"QU\u1ea2N L\u00dd B\u00c3I \u0110\u1ed6 XE","url":"https:\/\/atpro.com.vn\/danh-muc\/quan-ly-bai-do-xe-parking-system-toll-station\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"KI\u1ec2M SO\u00c1T V\u00c0O RA","url":"http:\/\/www.antuongpro.com\/he-thong-quan-ly-giam-sat-tram-can-co-xu-ly-anh-so-tai-cj-vinh-long\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"QU\u1ea2N L\u00dd TRANG TR\u1ea0I CH\u0102N NU\u00d4I","url":"https:\/\/atpro.com.vn\/san-pham\/quan-ly-trang-trai-chan-nuoi-su-dung-plcpis\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"QU\u1ea2N L\u00dd TRANG TR\u1ea0I TR\u1ed2NG TR\u1eccT","url":"https:\/\/atpro.com.vn\/san-pham\/quan-ly-trang-trai-trong-trot\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"QU\u1ea2N L\u00dd SU\u1ea4T \u0102N","url":"https:\/\/atpro.com.vn\/danh-muc\/quan-ly-suat-an-cong-nghiep\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"GI\u1ea2I PH\u00c1P X\u1ebeP H\u00c0NG","url":"https:\/\/atpro.com.vn\/danh-muc\/he-thong-lay-so-thu-tu\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"GI\u00c1M S\u00c1T NHI\u1ec6T \u1ea8M","url":"https:\/\/atpro.com.vn\/danh-muc\/do-nhiet-do-do-am"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"GI\u00c1M S\u00c1T C\u1ea2NH B\u00c1O PH\u00d2NG SERVER","url":"https:\/\/atpro.com.vn\/danh-muc\/giam-sat-phong-may-chu\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"GI\u00c1M S\u00c1T C\u1ea2NH B\u00c1O KHO T\u1ee6 L\u1ea0NH","url":"https:\/\/atpro.com.vn\/danh-muc\/san-pham-he-thong-giam-sat-nhiet-do-cua-atpro\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"QU\u1ea2N L\u00dd N\u0102NG SU\u1ea4T","url":"https:\/\/atpro.com.vn\/danh-muc\/quan-ly-san-xuat-nang-tam-chat-luong-san-xuat\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"B\u1ed8 \u0110\u1ebeM S\u1ea2N PH\u1ea8M","url":"https:\/\/atpro.com.vn\/danh-muc\/bo-dem-san-pham-hien-thi-so\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"H\u1ec6 TH\u1ed0NG ANDON","url":"https:\/\/atpro.com.vn\/danh-muc\/he-thong-canh-bao-trong-san-xuat\/"}]}</script><!-- / site-navigation-element Schema optimized by Schema Pro --><style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><!--[if IE]><link rel="stylesheet" type="text/css" href="https://atpro.com.vn/wp-content/themes/flatsome/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="https://atpro.com.vn/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]-->    <script type="text/javascript">
+    WebFontConfig = {
+      google: { families: [ "Roboto+Slab:regular,700","Roboto+Slab:regular,regular","Roboto+Slab:regular,700","Dancing+Script", ] }
+    };
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })(); </script>
+  	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://atpro.com.vn/wp-content/uploads/2018/11/avatar-group.png" sizes="32x32" />
+<link rel="icon" href="https://atpro.com.vn/wp-content/uploads/2018/11/avatar-group.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://atpro.com.vn/wp-content/uploads/2018/11/avatar-group.png" />
+<meta name="msapplication-TileImage" content="https://atpro.com.vn/wp-content/uploads/2018/11/avatar-group.png" />
+<style id="custom-css" type="text/css">:root {--primary-color: #446084;}/* Site Width */.header-main{height: 64px}#logo img{max-height: 64px}#logo{width:198px;}#logo img{padding:2px 0;}.header-bottom{min-height: 10px}.header-top{min-height: 20px}.transparent .header-main{height: 265px}.transparent #logo img{max-height: 265px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 295px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.header-bg-color, .header-wrapper {background-color: rgba(247,247,247,0.9)}.header-bottom {background-color: #f1f1f1}.header-main .nav > li > a{line-height: 16px }.header-bottom-nav > li > a{line-height: 14px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}body{font-family:"Roboto Slab", sans-serif}body{font-weight: 0}.nav > li > a {font-family:"Roboto Slab", sans-serif;}.nav > li > a {font-weight: 700;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "Roboto Slab", sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: 700;}.alt-font{font-family: "Dancing Script", sans-serif;}.header:not(.transparent) .header-bottom-nav.nav > li > a{color: #1E73BE;}.shop-page-title.featured-title .title-overlay{background-color: rgba(28,136,175,0.84);}@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 247px!important;width: 247px!important;}}.footer-2{background-color: #1946A0}.absolute-footer, html{background-color: rgba(19,30,66,0.87)}.footertet {position: fixed;bottom: 0px;left: auto;display: block;z-index: 9000;background: ;color: red;border-radius: 9px;margin-left: auto;margin-right: auto;text-align: center;display: inline-block;background-size: cover;background-image: none;background-repeat: no-repeat;background-position: center center;background-size: cover;}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style></head>
+
+<body class="home page-template page-template-page-blank page-template-page-blank-php page page-id-28563 theme-flatsome woocommerce-no-js wp-schema-pro-1.1.11 full-width bg-fill lightbox nav-dropdown-has-arrow">
+
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+<div id="wrapper">
+
+
+<header id="header" class="header header-full-width has-sticky sticky-jump">
+   <div class="header-wrapper">
+	<div id="top-bar" class="header-top hide-for-sticky nav-dark flex-has-center">
+    <div class="flex-row container">
+      <div class="flex-col hide-for-medium flex-left">
+          <ul class="nav nav-left medium-nav-center nav-small  nav-">
+              <li id="menu-item-437" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home active  menu-item-437"><a href="https://atpro.com.vn" class="nav-top-link">TRANG CHỦ</a></li>
+<li id="menu-item-438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-438 has-dropdown"><a href="#" class="nav-top-link">TIN TỨC<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-30568" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30568"><a href="https://atpro.com.vn/bo-dem-san-pham/">BỘ ĐẾM SẢN PHẨM</a></li>
+	<li id="menu-item-30581" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30581"><a href="https://atpro.com.vn/he-thong-xep-hang-tu-dong/">HỆ THỐNG XẾP HÀNG TỰ ĐỘNG</a></li>
+	<li id="menu-item-30569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children  menu-item-30569 nav-dropdown-col"><a href="https://atpro.com.vn/giam-sat-nhiet-do/">GIÁM SÁT NHIỆT ĐỘ</a>
+	<ul class='nav-column nav-dropdown-default'>
+		<li id="menu-item-30570" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30570"><a href="https://atpro.com.vn/giam-sat-nhiet-do/he-thong-giam-sat-nhiet-do-kho-lanh/">Hệ thống giám sát nhiệt độ kho lạnh</a></li>
+		<li id="menu-item-30571" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30571"><a href="https://atpro.com.vn/giam-sat-nhiet-do/he-thong-giam-sat-nhiet-do-phong-may-chu/">Hệ thống giám sát nhiệt độ phòng máy chủ</a></li>
+		<li id="menu-item-30572" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30572"><a href="https://atpro.com.vn/giam-sat-nhiet-do/he-thong-giam-sat-nhiet-do-tu-thuoc/">Hệ thống giám sát nhiệt độ tủ thuốc</a></li>
+		<li id="menu-item-30573" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30573"><a href="https://atpro.com.vn/giam-sat-nhiet-do/he-thong-giam-sat-nhiet-do-tu-xa/">Hệ thống giám sát nhiệt độ từ xa</a></li>
+		<li id="menu-item-30574" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30574"><a href="https://atpro.com.vn/giam-sat-nhiet-do/he-thong-giam-sat-nhiet-do-xe-dong-lanh/">Hệ thống giám sát nhiệt độ xe đông lạnh</a></li>
+		<li id="menu-item-30575" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30575"><a href="https://atpro.com.vn/giam-sat-nhiet-do/dong-ho-do-nhiet-do/">Đồng hồ đo nhiệt độ</a></li>
+		<li id="menu-item-30576" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30576"><a href="https://atpro.com.vn/giam-sat-nhiet-do/dong-ho-do-nhiet-do-do-am/">Đồng hồ đo nhiệt độ độ ẩm</a></li>
+	</ul>
+</li>
+	<li id="menu-item-30577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children  menu-item-30577 nav-dropdown-col"><a href="https://atpro.com.vn/dong-ho-led-dien-tu/">ĐỒNG HỒ LED ĐIỆN TỬ</a>
+	<ul class='nav-column nav-dropdown-default'>
+		<li id="menu-item-30578" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30578"><a href="https://atpro.com.vn/dong-ho-led-dien-tu/dong-ho-dem-nguoc/">Đồng hồ đếm ngược xuôi</a></li>
+		<li id="menu-item-30579" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30579"><a href="https://atpro.com.vn/dong-ho-led-dien-tu/dong-ho-treo-tuong/">Đồng hồ treo tường</a></li>
+		<li id="menu-item-30580" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-30580"><a href="https://atpro.com.vn/dong-ho-led-dien-tu/dong-ho-bao-gio-lam-viec/">Đồng hồ báo giờ làm việc</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-36108" class="menu-item menu-item-type-taxonomy menu-item-object-category  menu-item-36108"><a href="https://atpro.com.vn/tuyen-dung/" class="nav-top-link">TUYỂN DỤNG</a></li>
+<li id="menu-item-440" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-440"><a href="https://atpro.com.vn/lien-he-atpro/" class="nav-top-link">LIÊN HỆ</a></li>
+          </ul>
+      </div><!-- flex-col left -->
+
+      <div class="flex-col hide-for-medium flex-center">
+          <ul class="nav nav-center nav-small  nav-">
+              <li class="html custom html_topbar_right"><font color="#fac100" size = "4"><b> HOTLINE: 028.3842.5001 - 028.3842.5226</b></font></li>          </ul>
+      </div><!-- center -->
+
+      <div class="flex-col hide-for-medium flex-right">
+         <ul class="nav top-bar-nav nav-right nav-small  nav-">
+              <li class="header-search header-search-dropdown has-icon has-dropdown menu-item-has-children">
+	<div class="header-button">	<a href="#" class="icon primary button circle is-small"><i class="icon-search" ></i></a>
+	</div>	<ul class="nav-dropdown nav-dropdown-default">
+	 	<li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative form- is-normal"><form method="get" class="searchform" action="https://atpro.com.vn/" role="search">
+		<div class="flex-row relative">
+									<div class="flex-col flex-grow">
+			  <input type="search" class="search-field mb-0" name="s" value="" placeholder="Tìm kiếm&hellip;" />
+		    <input type="hidden" name="post_type" value="product" />
+        			</div><!-- .flex-col -->
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0">
+					<i class="icon-search" ></i>				</button>
+			</div><!-- .flex-col -->
+		</div><!-- .flex-row -->
+	 <div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>	</ul><!-- .nav-dropdown -->
+</li>
+<li class="header-divider"></li><li class="account-item has-icon
+    "
+>
+<div class="header-button">
+<a href="https://atpro.com.vn/my-account/"
+    class="nav-top-link nav-top-not-logged-in icon primary button circle is-small"
+    data-open="#login-form-popup"  >
+  <i class="icon-user" ></i>
+</a><!-- .account-login-link -->
+
+</div>
+
+</li>
+<li class="header-divider"></li><li class="cart-item has-icon
+ has-dropdown">
+<div class="header-button">
+<a href="https://atpro.com.vn/cart/" title="Giỏ hàng" class="header-cart-link icon primary button circle is-small">
+
+  
+
+    <i class="icon-shopping-basket"
+    data-icon-label="0">
+  </i>
+  </a>
+</div>
+ <ul class="nav-dropdown nav-dropdown-default">
+    <li class="html widget_shopping_cart">
+      <div class="widget_shopping_cart_content">
+        
+
+	<p class="woocommerce-mini-cart__empty-message">Chưa có sản phẩm trong giỏ hàng.</p>
+
+
+      </div>
+    </li>
+     </ul><!-- .nav-dropdown -->
+
+</li>
+<li class="header-divider"></li><li class="html header-social-icons ml-0">
+	<div class="social-icons follow-icons " ><a href="http://url" target="_blank" data-label="Facebook"  rel="nofollow" class="icon plain facebook tooltip" title="Follow on Facebook"><i class="icon-facebook" ></i></a><a href="http://url" target="_blank" rel="nofollow" data-label="Instagram" class="icon plain  instagram tooltip" title="Follow on Instagram"><i class="icon-instagram" ></i></a><a href="http://url" target="_blank"  data-label="Twitter"  rel="nofollow" class="icon plain  twitter tooltip" title="Follow on Twitter"><i class="icon-twitter" ></i></a><a href="mailto:your@email" target="_blank"  data-label="E-mail"  rel="nofollow" class="icon plain  email tooltip" title="Send us an email"><i class="icon-envelop" ></i></a></div></li>          </ul>
+      </div><!-- .flex-col right -->
+
+            <div class="flex-col show-for-medium flex-grow">
+          <ul class="nav nav-center nav-small mobile-nav  nav-">
+              <li class="html custom html_topbar_left"><font color="#fac100" ><b> HOTLINE: 028.384.5001 - 028.3842.5226</b></font></li>          </ul>
+      </div>
+      
+    </div><!-- .flex-row -->
+</div><!-- #header-top -->
+<div id="masthead" class="header-main ">
+      <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            <!-- Header logo -->
+<a href="https://atpro.com.vn/" title="ATPro Corp &#8211; Nhà sản xuất phần mềm, thiết bị công nghiệp hàng đầu Việt Nam - ATPro Corp chuyên về phần mềm SCADA, MES, ERP &#8211; Thiết bị điều khiển, giám sát, thu thập dữ liệu cho nhà máy công nghiệp" rel="home">
+    <img width="198" height="64" src="https://atpro.com.vn/wp-content/uploads/2019/05/logo-ATPro.png" class="header_logo header-logo" alt="ATPro Corp &#8211; Nhà sản xuất phần mềm, thiết bị công nghiệp hàng đầu Việt Nam"/><img  width="198" height="64" src="https://atpro.com.vn/wp-content/uploads/2019/05/logo-ATPro.png" class="header-logo-dark" alt="ATPro Corp &#8211; Nhà sản xuất phần mềm, thiết bị công nghiệp hàng đầu Việt Nam"/></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="nav-icon has-icon">
+  		<a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="is-small" aria-controls="main-menu" aria-expanded="false">
+		
+		  <i class="icon-menu" ></i>
+		  		</a>
+	</li>            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            flex-grow">
+            <ul class="header-nav header-nav-main nav nav-left  nav-divided nav-uppercase" >
+              <li id="menu-item-31176" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-31176"><a href="https://atpro.com.vn/danh-muc/cam-bien-cong-nghiep-hang-noi-tieng-the-gioi/" class="nav-top-link">CẢM BIẾN &#8211; SENSOR</a></li>
+<li id="menu-item-31062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-31062 has-dropdown"><a href="#" class="nav-top-link">THIẾT BỊ TỰ ĐỘNG HÓA<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-31068" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-31068"><a href="https://atpro.com.vn/danh-muc/phan-mem-scada-thuong-hieu-viet-atscada/">PHẦN MỀM SCADA</a></li>
+	<li id="menu-item-31067" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-31067"><a href="https://atpro.com.vn/danh-muc/may-tinh-cong-nghiep/">MÁY TÍNH CÔNG NGHIỆP</a></li>
+	<li id="menu-item-31064" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-31064"><a href="https://atpro.com.vn/danh-muc/man-hinh-hmi/">MÀN HÌNH HMI</a></li>
+	<li id="menu-item-31063" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-31063"><a href="https://atpro.com.vn/danh-muc/bo-dieu-khien-plc/">BỘ ĐIỀU KHIỂN PLC</a></li>
+	<li id="menu-item-31066" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-31066"><a href="https://atpro.com.vn/danh-muc/bo-chuyen-tin-hieu/">BỘ CHUYỂN TÍN HIỆU</a></li>
+	<li id="menu-item-31065" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-31065"><a href="https://atpro.com.vn/danh-muc/iot-gateway/">IoT GATEWAY</a></li>
+</ul>
+</li>
+<li id="menu-item-28939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-28939 has-dropdown"><a href="https://atpro.com.vn/danh-muc/giai-phap-quan-ly/" class="nav-top-link">GIẢI PHÁP QUẢN LÝ<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-151" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-151"><a href="https://atpro.com.vn/danh-muc/dong-ho-dien-tu/">ĐỒNG HỒ ĐIỆN TỬ</a></li>
+	<li id="menu-item-610" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-610"><a href="https://atpro.com.vn/danh-muc/quan-ly-dien-nang/">QUẢN LÝ ĐIỆN NĂNG</a></li>
+	<li id="menu-item-1648" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat  menu-item-1648"><a href="https://atpro.com.vn/danh-muc/quan-ly-bai-do-xe-parking-system-toll-station/">QUẢN LÝ BÃI ĐỖ XE</a></li>
+	<li id="menu-item-612" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-612"><a href="http://www.antuongpro.com/he-thong-quan-ly-giam-sat-tram-can-co-xu-ly-anh-so-tai-cj-vinh-long/">KIỂM SOÁT VÀO RA</a></li>
+	<li id="menu-item-1596" class="menu-item menu-item-type-post_type menu-item-object-product  menu-item-1596"><a href="https://atpro.com.vn/san-pham/quan-ly-trang-trai-chan-nuoi-su-dung-plcpis/">QUẢN LÝ TRANG TRẠI CHĂN NUÔI</a></li>
+	<li id="menu-item-1599" class="menu-item menu-item-type-post_type menu-item-object-product  menu-item-1599"><a href="https://atpro.com.vn/san-pham/quan-ly-trang-trai-trong-trot/">QUẢN LÝ TRANG TRẠI TRỒNG TRỌT</a></li>
+	<li id="menu-item-420" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-420"><a href="https://atpro.com.vn/danh-muc/quan-ly-suat-an-cong-nghiep/">QUẢN LÝ SUẤT ĂN</a></li>
+</ul>
+</li>
+<li id="menu-item-3078" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat  menu-item-3078"><a href="https://atpro.com.vn/danh-muc/he-thong-lay-so-thu-tu/" class="nav-top-link">GIẢI PHÁP XẾP HÀNG</a></li>
+<li id="menu-item-401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-401 has-dropdown"><a href="https://atpro.com.vn/danh-muc/do-nhiet-do-do-am" class="nav-top-link">GIÁM SÁT NHIỆT ẨM<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-585" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-585"><a href="https://atpro.com.vn/danh-muc/giam-sat-phong-may-chu/">GIÁM SÁT CẢNH BÁO PHÒNG SERVER</a></li>
+	<li id="menu-item-586" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-586"><a href="https://atpro.com.vn/danh-muc/san-pham-he-thong-giam-sat-nhiet-do-cua-atpro/">GIÁM SÁT CẢNH BÁO KHO TỦ LẠNH</a></li>
+</ul>
+</li>
+<li id="menu-item-608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-608 has-dropdown"><a href="https://atpro.com.vn/danh-muc/quan-ly-san-xuat-nang-tam-chat-luong-san-xuat/" class="nav-top-link">QUẢN LÝ NĂNG SUẤT<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-609" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-609"><a href="https://atpro.com.vn/danh-muc/bo-dem-san-pham-hien-thi-so/">BỘ ĐẾM SẢN PHẨM</a></li>
+	<li id="menu-item-30683" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-30683"><a href="https://atpro.com.vn/danh-muc/he-thong-canh-bao-trong-san-xuat/">HỆ THỐNG ANDON</a></li>
+</ul>
+</li>
+            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-divided nav-uppercase">
+                          </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+              <li class="cart-item has-icon">
+
+<div class="header-button">
+<a href="https://atpro.com.vn/cart/" class="header-cart-link off-canvas-toggle nav-top-link icon primary button circle is-small" data-open="#cart-popup" data-class="off-canvas-cart" title="Giỏ hàng" data-pos="right">
+
+    <i class="icon-shopping-basket"
+    data-icon-label="0">
+  </i>
+  </a>
+</div>
+
+  <!-- Cart Sidebar Popup -->
+  <div id="cart-popup" class="mfp-hide widget_shopping_cart">
+  <div class="cart-popup-inner inner-padding">
+      <div class="cart-popup-title text-center">
+          <h4 class="uppercase">Giỏ hàng</h4>
+          <div class="is-divider"></div>
+      </div>
+      <div class="widget_shopping_cart_content">
+          
+
+	<p class="woocommerce-mini-cart__empty-message">Chưa có sản phẩm trong giỏ hàng.</p>
+
+
+      </div>
+             <div class="cart-sidebar-content relative"></div>  </div>
+  </div>
+
+</li>
+            </ul>
+          </div>
+
+      </div><!-- .header-inner -->
+     
+            <!-- Header divider -->
+      <div class="container"><div class="top-divider full-width"></div></div>
+      </div><!-- .header-main -->
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div><!-- .header-bg-container -->   </div><!-- header-wrapper-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.5";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<style>
+#cfacebook{position:fixed;bottom:12px;left:20px;z-index:99;width:250px;height:auto;box-shadow:6px 6px 6px 10px rgba(0,0,0,0.2);border-top-left-radius:10px;border-top-right-radius:10px;overflow:hidden;}
+#cfacebook .fchat{float:right;width:100%;height:270px;overflow:hidden;display:none;background-color:#fff;}
+#cfacebook .fchat .fb-page{margin-top:-5px;float:right;}
+#cfacebook a.chat_fb{float:right;padding:0 0px;text-align:center;width:260px;color:#b20000;font-weight:bold;text-decoration:none;height:40px;line-height:40px;text-shadow:0 1px 0 rgba(0,0,0,0.1);background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAqCAMAAABFoMFOAAAAWlBMV�8/UxBxQDQuFwlpqgBZBq6+P+unVY1GnDgwqbD2zGz5e1lBdwvGGPE6OgAAAABJRU5ErkJggg==);background-repeat:repeat-x;background-size:auto;background-position:0 0;background-color:#fac100;border:0;border-bottom:1px solid #133783;z-index:9999999;margin-left:12px;font-size:18px;}
+#cfacebook a.chat_fb:hover{color:yellow;text-decoration:none;}
+@media (max-width: 767px) {
+ 
+    a.chat_fb{
+ 
+        display :none;
+ 
+    }
+.fchat span{ width:260px!important;}
+</style>
+
+<script>
+jQuery(document).ready(function () {
+jQuery(".chat_fb").click(function() {
+jQuery('.fchat').toggle('slow');
+});
+});
+</script>
+<div id="cfacebook">
+<a href="javascript:;" class="chat_fb" onClick="return:false;"><i class="fa fa-facebook-square"></i> CHAT FACEBOOK </a>
+<div class="fchat">
+<div style="width:260px;" class="fb-page"
+data-href="https://www.facebook.com/atpro.com.vn/"
+data-tabs="messages"
+data-width="260"
+data-height="280"
+data-small-header="true">
+<div class="fb-xfbml-parse-ignore">
+<blockquote></blockquote>
+</div>
+</div> 
+</div>
+</div>
+</div>
+
+
+<style>
+.mobile-hotline{display:none}
+ 
+.hotline {position: fixed;
+    left: 10px;
+    bottom: 10px;
+    z-index: 9000;
+    display: block;
+    background: #fac100;
+    color: red;
+    padding-top: 5px;padding-bottom:5px; padding-left:12px; padding-right: 12px;
+    border-radius: 99px;}
+.hotline .hotline-number{font-size:20px; color: #b20000; font-weight: bold}
+ 
+@media  (max-width: 767px) {
+ 
+    .hotline{
+ 
+        display :none;
+ 
+    }
+.mobile-hotline{display: block; bottom: 0; width: 100%; background:rgba(0,0,0,0.5); height: 60px; position: fixed; z-index:9999999}
+.mobile-hotline .mobile-hotline-left{width: 45%; float: left; text-align: center; background: #00a502; margin-left: 10px; margin-right:5px; margin-top: 7px; height: 45px; border-radius: 4px}
+.mobile-hotline .mobile-hotline-left a{color: white; line-height: 46px; font-size:16px; font-weight: bold}
+ 
+.mobile-hotline .mobile-hotline-right{width: 45%; float: right; text-align: center; background: #fac100; margin-left: 5px; margin-right: 10px; margin-top: 7px; height: 45px; border-radius: 4px}
+.mobile-hotline .mobile-hotline-right a{color: red; line-height: 46px; font-size: 16px; font-weight: bold}
+}
+</style>
+<div class="mobile-hotline">
+<div class="mobile-hotline-left">
+<a href="https://www.facebook.com/atpro.com.vn/" target="blank">Chat Facebook</a>
+</div>
+</div>
+
+
+
+</header>
+
+
+<main id="main" class="">
+
+
+<div id="content" role="main" class="content-area">
+
+		
+			<div class="row align-equal align-center"  id="row-555760453">
+<div class="col small-12 large-12"  ><div class="col-inner"  >
+</div></div>
+
+<style scope="scope">
+
+</style>
+</div>
+<div class="row align-equal align-center"  id="row-1300299391">
+<div class="col small-12 large-12"  ><div class="col-inner"  >
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1156485919">
+								<div class="img-inner dark" >
+			<img width="900" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/05/banner12.png" class="attachment-large size-large" alt="banner ATPro Corp" srcset="https://atpro.com.vn/wp-content/uploads/2019/05/banner12.png 900w, https://atpro.com.vn/wp-content/uploads/2019/05/banner12-300x100.png 300w, https://atpro.com.vn/wp-content/uploads/2019/05/banner12-768x256.png 768w, https://atpro.com.vn/wp-content/uploads/2019/05/banner12-510x170.png 510w" sizes="(max-width: 900px) 100vw, 900px" />						
+					</div>
+								
+<style scope="scope">
+
+#image_1156485919 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+</div></div>
+
+<style scope="scope">
+
+</style>
+</div>
+<div class="container section-title-container" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" style="font-size:85%;color:rgb(29, 11, 240);"><i class="icon-menu" ></i>GIẢI PHÁP VỀ HỆ THỐNG QUẢN LÝ</span><b></b></h3></div><!-- .section-title -->
+<div class="row align-equal align-center"  id="row-355106187">
+<div class="col small-12 large-12"  ><div class="col-inner"  >
+
+  
+    <div class="row large-columns-5 medium-columns-3 small-columns-2 row-small slider row-slider slider-nav-reveal slider-nav-push"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 7000}'>
+
+  	
+	     
+					
+<div class="product-small col has-hover post-31895 product type-product status-publish has-post-thumbnail product_cat-quan-ly-nang-suat-tich-hop-he-thong-phan-mem-scada product_tag-giam-sat-san-xuat-nha-may product_tag-he-thong-giam-sat-san-xuat product_tag-quan-tri-san-xuat first instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/he-thong-giam-sat-quan-tri-san-xuat-nha-may/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/phan-tich-he-thong-quan-ly-san-xuat-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/man-hinh-HMI-giam-sat-san-xuat-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="Màn hình HMI giám sát tại chỗ" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31895" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			GIẢI PHÁP QUẢN LÝ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/he-thong-giam-sat-quan-tri-san-xuat-nha-may/">HỆ THỐNG GIÁM SÁT QUẢN TRỊ SẢN XUẤT NHÀ MÁY</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31881 product type-product status-publish has-post-thumbnail product_cat-quan-ly-nang-suat-tich-hop-he-thong-phan-mem-scada product_tag-canh-bao-nhiet-do-xe-dong-lanh product_tag-giam-sat-canh-bao-nhiet-do product_tag-giam-sat-nhiet-do-xe-lanh product_tag-giam-sat-nhiet-do-xe-lanh-phan-tan  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/giai-phap-giam-sat-canh-bao-nhiet-do-xe-lanh-phan-tan/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/giam-sat-canh-bao-nhiet-do-xe-lanh-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="GIẢI PHÁP GIÁM SÁT CẢNH BÁO NHIỆT ĐỘ XE LẠNH" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/giam-sat-canh-bao-nhiet-do-xe-lanh-1-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="giao diện giám sát xe lạnh" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31881" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			GIẢI PHÁP QUẢN LÝ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/giai-phap-giam-sat-canh-bao-nhiet-do-xe-lanh-phan-tan/">GIẢI PHÁP GIÁM SÁT CẢNH BÁO NHIỆT ĐỘ XE LẠNH PHÂN TÁN</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31855 product type-product status-publish has-post-thumbnail product_cat-quan-ly-nang-suat-tich-hop-he-thong-phan-mem-scada product_tag-giam-sat-muc-chat-long product_tag-he-thong-do-muc product_tag-he-thong-do-muc-nuoc product_tag-scada-giam-sat-muc-chat-long product_tag-scada-giam-sat-muc-dung-dich-trong-bon-chua product_tag-do-muc-chat-long-trong-bon-chua product_tag-do-muc-dung-dich  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/he-thong-scada-giam-sat-do-muc-dung-dich-trong-bon-chua/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/giam-sat-do-muc-chat-long-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/giao-dien-phan-mem-scada-do-muc-chat-long-2-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="giao diện giám sát mức dung dịch" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31855" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			GIẢI PHÁP QUẢN LÝ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/he-thong-scada-giam-sat-do-muc-dung-dich-trong-bon-chua/">HỆ THỐNG SCADA GIÁM SÁT ĐO MỨC DUNG DỊCH TRONG BỒN CHỨA</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31846 product type-product status-publish has-post-thumbnail product_cat-quan-ly-nang-suat-tich-hop-he-thong-phan-mem-scada last instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/giai-phap-quan-ly-giam-sat-nha-nuoi-yen-tu-xa/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/giam-sat-nha-yen-tu-xa-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/giam-sat-nha-yen-tu-xa-1-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="thiết bị giám sát nhà yến từ xa" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31846" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			GIẢI PHÁP QUẢN LÝ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/giai-phap-quan-ly-giam-sat-nha-nuoi-yen-tu-xa/">GIẢI PHÁP QUẢN LÝ &#8211; GIÁM SÁT NHÀ NUÔI YẾN TỪ XA</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31822 product type-product status-publish has-post-thumbnail product_cat-quan-ly-nang-suat-tich-hop-he-thong-phan-mem-scada product_tag-he-thong-xu-ly-nuoc-thai product_tag-he-thong-xu-ly-nuoc-thai-benh-vien product_tag-he-thong-xu-ly-nuoc-thai-chan-nuoi product_tag-he-thong-xu-ly-nuoc-thai-cong-nghiep product_tag-he-thong-xu-ly-nuoc-thai-khu-cong-nghiep product_tag-he-thong-xu-ly-nuoc-thai-sinh-hoat product_tag-he-thong-xu-ly-nuoc-thai-toa-nha first instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/he-thong-scada-giam-sat-xu-ly-nuoc-thai/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/he-thong-xu-ly-nuoc-thai-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="HỆ THỐNG SCADA GIÁM SÁT XỬ LÝ NƯỚC THẢI" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/he-thong-xu-ly-nuoc-thai-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="giao diện hệ thống xử lý nước" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31822" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			GIẢI PHÁP QUẢN LÝ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/he-thong-scada-giam-sat-xu-ly-nuoc-thai/">HỆ THỐNG SCADA GIÁM SÁT XỬ LÝ NƯỚC THẢI</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31806 product type-product status-publish has-post-thumbnail product_cat-quan-ly-nang-suat-tich-hop-he-thong-phan-mem-scada product_cat-he-thong-canh-bao-trong-san-xuat  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/he-thong-andon-giam-sat-san-xuat-khong-day/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/he-thong-andon-giam-sat-san-xuat-khong-day-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="HỆ THỐNG ANDON GIÁM SÁT SẢN XUẤT KHÔNG DÂY" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/thiet-bi-he-thong-andon-giam-sat-san-xuat-khong-day-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="Thiết bị ứng dụng trong hệ thống Andon" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31806" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			GIẢI PHÁP QUẢN LÝ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/he-thong-andon-giam-sat-san-xuat-khong-day/">HỆ THỐNG ANDON GIÁM SÁT SẢN XUẤT KHÔNG DÂY</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31786 product type-product status-publish has-post-thumbnail product_cat-quan-ly-nang-suat-tich-hop-he-thong-phan-mem-scada  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/he-thong-scada-giam-sat-nha-may-tu-xa/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/giam-sat-nha-may-scada-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31786" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			GIẢI PHÁP QUẢN LÝ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/he-thong-scada-giam-sat-nha-may-tu-xa/">HỆ THỐNG SCADA GIÁM SÁT NHÀ MÁY TỪ XA</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31772 product type-product status-publish has-post-thumbnail product_cat-quan-ly-nang-suat-tich-hop-he-thong-phan-mem-scada last instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/giam-sat-tram-quan-trac-nuoc-thai-duong-truyen-ftp/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/giam-sat-quan-trac-mang-LAN-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="GIÁM SÁT TRẠM QUAN TRẮC NƯỚC THẢI TỰ ĐỘNG LIÊN TỤC ĐƯỜNG TRUYỀN FTP" /><img width="247" height="241" src="https://atpro.com.vn/wp-content/uploads/2019/06/giam-sat-quan-trac-xu-ly-nuoc-thai-247x241.png" class="show-on-hover absolute fill hide-for-small back-image" alt="Giao diện hiển thị thông số giám sát quan trắc" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31772" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			GIẢI PHÁP QUẢN LÝ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/giam-sat-tram-quan-trac-nuoc-thai-duong-truyen-ftp/">GIÁM SÁT TRẠM QUAN TRẮC NƯỚC THẢI ĐƯỜNG TRUYỀN FTP</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+	        </div>
+</div></div>
+
+<style scope="scope">
+
+</style>
+</div>
+<div class="container section-title-container" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" style="font-size:85%;color:rgb(29, 11, 240);"><i class="icon-menu" ></i>MÁY ĐO, CẢNH BÁO NHIỆT ĐỘ, ĐỘ ẨM</span><b></b></h3></div><!-- .section-title -->
+<div class="row align-equal align-center"  id="row-1974418166">
+<div class="col small-12 large-12"  ><div class="col-inner"  >
+
+  
+    <div class="row large-columns-5 medium-columns-3 small-columns-2 row-small slider row-slider slider-nav-reveal slider-nav-push"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 7000}'>
+
+  	
+	     
+					
+<div class="product-small col has-hover post-3555 product type-product status-publish has-post-thumbnail product_cat-do-nhiet-do-do-am product_tag-may-do-nhiet-do product_tag-thiet-bi-do-nhiet-do product_tag-thiet-bi-do-nhiet-do-do-am first instock taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/thiet-bi-hien-thi-nhiet-am-tu-cam-bien-analog/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/BANG-LED-HIEN-THI-4-SO-e1491209712823-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/BANG-LED-HIEN-THI-4-SO-e1491209712823-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="3555" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ĐO NHIỆT ĐỘ - ĐỘ ẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/thiet-bi-hien-thi-nhiet-am-tu-cam-bien-analog/">THIẾT BỊ HIỂN THỊ NHIỆT ẨM (MÃ: AT-ADD-S)</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount">2.600.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-3541 product type-product status-publish has-post-thumbnail product_cat-do-nhiet-do-do-am product_tag-may-do-nhiet-do-do-am product_tag-thiet-bi-do-nhiet-do-do-am  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/may-do-nhiet-do-do-am-ma-at-thms3-1/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/MAY-DO-NHIET-DO-DO-AM-DAT-ONLINE-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/MAY-DO-NHIET-DO-DO-AM-DAT-ONLINE-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="3541" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ĐO NHIỆT ĐỘ - ĐỘ ẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/may-do-nhiet-do-do-am-ma-at-thms3-1/">MÁY ĐO NHIỆT ĐỘ ĐỘ ẨM</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-3537 product type-product status-publish has-post-thumbnail product_cat-do-nhiet-do-do-am product_tag-giam-sat-nhiet-do-phong-may-chu product_tag-he-thong-giam-sat-nhiet-do-phong-may-chu  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/he-thong-giam-sat-phong-may-chu-trung-tam-du-lieu-2/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/giam-sat-an-ninh-phong-may-chu-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="3537" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ĐO NHIỆT ĐỘ - ĐỘ ẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/he-thong-giam-sat-phong-may-chu-trung-tam-du-lieu-2/">HỆ THỐNG GIÁM SÁT PHÒNG MÁY CHỦ &#8211; TRUNG TÂM DỮ LIỆU</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-3535 product type-product status-publish has-post-thumbnail product_cat-do-nhiet-do-do-am product_tag-giam-sat-canh-bao-nhiet-do-kho-lanh product_tag-he-thong-giam-sat-canh-bao-nhiet-do-kho-lanh last instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/giam-sat-canh-bao-nhiet-do-kho-lanh-qua-web-sms-cuoc-goi-2/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/he-thong-giam-sat-kho-lanh-mang-luoi-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="3535" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ĐO NHIỆT ĐỘ - ĐỘ ẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/giam-sat-canh-bao-nhiet-do-kho-lanh-qua-web-sms-cuoc-goi-2/">GIÁM SÁT CẢNH BÁO NHIỆT ĐỘ KHO LẠNH QUA WEB &#8211; SMS &#8211; CUỘC GỌI</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-3532 product type-product status-publish has-post-thumbnail product_cat-do-nhiet-do-do-am product_tag-giam-sat-nhiet-do-xe-dong-lanh product_tag-giam-sat-nhiet-do-tu-xa product_tag-thiet-bi-giam-sat-nhiet-do-xe-dong-lanh first instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/he-thong-giam-sat-nhiet-do-xe-dong-lanh-he-thong-giam-sat-nhiet-do-xe-dong-lanh-2/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/HE-THONG-GIAM-SAT-NHIET-DO-XE-LANH-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="3532" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ĐO NHIỆT ĐỘ - ĐỘ ẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/he-thong-giam-sat-nhiet-do-xe-dong-lanh-he-thong-giam-sat-nhiet-do-xe-dong-lanh-2/">HỆ THỐNG GIÁM SÁT NHIỆT ĐỘ XE ĐÔNG LẠNH</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-3530 product type-product status-publish has-post-thumbnail product_cat-do-nhiet-do-do-am product_tag-canh-bao-nhiet-do-qua-sms product_tag-giam-sat-nhiet-do-qua-internet product_tag-giam-sat-nhiet-do-tu-xa product_tag-he-thong-canh-bao-nhiet-do product_tag-he-thong-giam-sat-nhiet-do  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/giam-sat-nhiet-do-tu-vacxin/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/he-thong-giam-sat-canh-bao-nhiet-do-tu-xa-su-dung-AT-TMS31-e1537750003303-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="3530" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ĐO NHIỆT ĐỘ - ĐỘ ẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/giam-sat-nhiet-do-tu-vacxin/">GIÁM SÁT NHIỆT ĐỘ TỦ VACXIN</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-3526 product type-product status-publish has-post-thumbnail product_cat-do-nhiet-do-do-am product_tag-bo-giam-sat-nhiet-do-do-am product_tag-dong-ho-do-nhiet-do-do-am product_tag-he-thong-giam-sat-nhiet-do-do-am product_tag-may-do-nhiet-do-do-am product_tag-thiet-bi-do-nhiet-do-do-am  instock taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bang-dien-tu-nhiet-am-ngay-thang-nam-ma-at-thmt-d-l/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/ĐỒNG-HỒ-ĐO-NHIỆT-ĐỘ-ĐỘ-ẨM-NGÀY-THÁNG-NĂM-DONG-HO-DO-NHIET-DO-DO-AM-NGAY-THANG-NAM-AT-THMT-D-L-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/ĐỒNG-HỒ-ĐO-NHIỆT-ĐỘ-ĐỘ-ẨM-NGÀY-THÁNG-NĂM-DONG-HO-DO-NHIET-DO-DO-AM-NGAY-THANG-NAM-AT-THMT-D-L-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="3526" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ĐO NHIỆT ĐỘ - ĐỘ ẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bang-dien-tu-nhiet-am-ngay-thang-nam-ma-at-thmt-d-l/">BẢNG ĐIỆN TỬ NHIỆT ẨM, NGÀY THÁNG NĂM (MÃ: AT-THMT-D-L)</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount">7.280.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-3502 product type-product status-publish has-post-thumbnail product_cat-do-nhiet-do-do-am product_tag-bang-led-do-nhiet-do-do-am product_tag-bang-dien-tu-do-nhiet-do-am product_tag-may-do-nhiet-do-do-am product_tag-may-do-nhiet-am product_tag-thiet-bi-do-nhiet-do-do-am last instock taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/may-do-nhiet-am-at-thms-3-1/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/THIẾT-BỊ-ĐO-NHIỆT-ĐỘ-ĐỘ-ẨM-MAY-DO-NHIET-DO-DO-AM-AT-THMS-3.1-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="thiết bị do nhiệt độ độ ẩm" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/04/THIẾT-BỊ-ĐO-NHIỆT-ĐỘ-ĐỘ-ẨM-MAY-DO-NHIET-DO-DO-AM-AT-THMS-3.1-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="thiết bị do nhiệt độ độ ẩm" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="3502" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ĐO NHIỆT ĐỘ - ĐỘ ẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/may-do-nhiet-am-at-thms-3-1/">MÁY ĐO NHIỆT ẨM (MÃ AT-THMS3.1)</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount">2.000.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+	        </div>
+</div></div>
+
+<style scope="scope">
+
+</style>
+</div>
+<div class="container section-title-container" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" style="font-size:85%;color:rgb(29, 11, 240);"><i class="icon-menu" ></i>BẢNG THEO DÕI NĂNG SUẤT, ĐẾM SẢN PHẨM</span><b></b></h3></div><!-- .section-title -->
+<div class="row align-equal align-center"  id="row-490480348">
+<div class="col small-12 large-12"  ><div class="col-inner"  >
+
+  
+    <div class="row large-columns-5 medium-columns-3 small-columns-2 row-small slider row-slider slider-nav-reveal slider-nav-push"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 7000}'>
+
+  	
+	     
+					
+<div class="product-small col has-hover post-30348 product type-product status-publish has-post-thumbnail product_cat-bo-dem-san-pham-hien-thi-so product_tag-bo-dem product_tag-bo-dem-len product_tag-bo-dem-lui product_tag-bo-dem-san-pham product_tag-bo-dem-san-pham-co product_tag-bo-dem-san-pham-tp-hcm product_tag-bo-dem-san-pham-da-nang product_tag-bo-dem-so-luong first instock taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-dem-san-pham-co/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/01/bo-dem-san-pham-co-led-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="bộ đếm sản phẩm cơ hiển thị số led" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/01/bo-dem-san-pham-co-4-so-led-nghieng-phai-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="30348" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			BỘ ĐẾM SẢN PHẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-dem-san-pham-co/">BỘ ĐẾM SẢN PHẨM CƠ 4 SỐ ATCOUNT-4C</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount">1.800.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1376 product type-product status-publish has-post-thumbnail product_cat-bo-dem-san-pham-hien-thi-so product_tag-bo-dem-4-so product_tag-bo-dem-bang-tai product_tag-bo-dem-san-pham product_tag-bo-dem-san-pham-4-so product_tag-bo-dem-so-luong product_tag-bo-dem-xi-mang product_tag-giam-sat-san-xuat  instock taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-dem-bang-tai-2-mat-ma-atcount-4l-2side/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/05/bo-dem-san-pham-21-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="bộ đếm sản phẩm" /><img width="247" height="168" src="https://atpro.com.vn/wp-content/uploads/2016/05/bo-dem-san-pham-11-1-247x168.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1376" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			BỘ ĐẾM SẢN PHẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-dem-bang-tai-2-mat-ma-atcount-4l-2side/">BỘ ĐẾM BĂNG TẢI &#8211; THƯƠNG HIỆU ATPro Corp</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount">4.200.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1372 product type-product status-publish has-post-thumbnail product_cat-bo-dem-san-pham-hien-thi-so product_tag-bo-dem-5-so product_tag-bo-dem-san-pham product_tag-bo-dem-san-pham-5-so product_tag-bo-dem-so-luong product_tag-cam-bien-quang-dem-san-pham product_tag-giam-sat-san-xuat  instock taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-dem-5-so-2-mat-ma-atcount-5s-2side/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/05/BO-DEM-5-SO-SP01-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="BỘ ĐẾM 5 SỐ" /><img width="247" height="225" src="https://atpro.com.vn/wp-content/uploads/2016/05/BO-DEM-SAN-PHAM-ATPro-ATV-2-247x225.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1372" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			BỘ ĐẾM SẢN PHẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-dem-5-so-2-mat-ma-atcount-5s-2side/">BỘ ĐẾM 5 SỐ 2 MẶT</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount">3.800.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1364 product type-product status-publish has-post-thumbnail product_cat-bo-dem-san-pham-hien-thi-so product_tag-bo-dem-san-pham product_tag-bo-dem-san-pham-bang-chuyen product_tag-bo-dem-so-luong product_tag-giam-sat-san-xuat last instock taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-dem-counter-5-so-ma-atcount-5l/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/05/BO-DEM-COUNTER-0001-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="BỘ ĐẾM COUNTER 5 SỐ LỚN" /><img width="247" height="173" src="https://atpro.com.vn/wp-content/uploads/2016/05/bo-dem-san-pham-5-247x173.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="" srcset="https://atpro.com.vn/wp-content/uploads/2016/05/bo-dem-san-pham-5-247x173.jpg 247w, https://atpro.com.vn/wp-content/uploads/2016/05/bo-dem-san-pham-5-220x154.jpg 220w" sizes="(max-width: 247px) 100vw, 247px" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1364" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			BỘ ĐẾM SẢN PHẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-dem-counter-5-so-ma-atcount-5l/">BỘ ĐẾM COUNTER 5 SỐ LỚN</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount">3.700.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1358 product type-product status-publish has-post-thumbnail product_cat-bo-dem-san-pham-hien-thi-so product_tag-bo-dem-san-pham product_tag-bo-dem-so-luong product_tag-giam-sat-san-xuat first instock taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-dem-4-so-ma-atcount-4l/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/05/bo-dem-san-pham-0001-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="bộ đếm 4 số" /><img width="247" height="225" src="https://atpro.com.vn/wp-content/uploads/2016/05/3-bo-dem-san-pham-e1437995100478-247x225.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1358" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			BỘ ĐẾM SẢN PHẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-dem-4-so-ma-atcount-4l/">BỘ ĐẾM 4 SỐ (MÃ: ATCOUNT-4L)</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount">3.500.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1351 product type-product status-publish has-post-thumbnail product_cat-bo-dem-san-pham-hien-thi-so product_tag-bo-dem-san-pham product_tag-bo-dem-san-pham-4-so product_tag-bo-dem-san-pham-gia-re product_tag-bo-dem-so-luong product_tag-bo-dem-so-luong-san-pham  instock taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-dem-so-luong-4-so-ma-atcount-4s/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/05/BO-DEM-SAN-PHAM-ATPRO-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="225" src="https://atpro.com.vn/wp-content/uploads/2016/05/1-bo-dem-san-pham-atpro-247x225.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1351" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			BỘ ĐẾM SẢN PHẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-dem-so-luong-4-so-ma-atcount-4s/">BỘ ĐẾM SỐ LƯỢNG 4 SỐ NHỎ</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount">2.300.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1345 product type-product status-publish has-post-thumbnail product_cat-bo-dem-san-pham-hien-thi-so product_tag-bang-hien-thi-san-xuat-lcd product_tag-giam-sat-san-xuat-giam-sat-san-xuat product_tag-lcd-giam-sat-san-xuat  instock taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bang-hien-thi-san-xuat-lcd-ma-at-ns-lcd/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/05/LCD-GIAM-SAT-SAN-XUAT-1-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/05/bo-nut-nhan-va-den-thap-3-tang-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1345" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			BỘ ĐẾM SẢN PHẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bang-hien-thi-san-xuat-lcd-ma-at-ns-lcd/">BẢNG HIỂN THỊ SẢN XUẤT LCD (MÃ: AT-NS-LCD)</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount">8.500.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1341 product type-product status-publish has-post-thumbnail product_cat-bo-dem-san-pham-hien-thi-so product_tag-bang-giam-sat-nang-suat-san-xuat product_tag-bang-hien-thi-nang-suat product_tag-bang-led-nang-suat product_tag-bang-theo-doi-nang-suat product_tag-giam-sat-nang-suat last instock taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bang-led-nang-suat-ma-at-ns-6/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/05/GIAM-SAT-SAN-XUAT-2-1-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="bảng led năng suất" /><img width="247" height="224" src="https://atpro.com.vn/wp-content/uploads/2016/05/HE-THONG-GIAM-SAT-NANG-SUAT-SAN-XUAT-4-247x224.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1341" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			BỘ ĐẾM SẢN PHẨM		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bang-led-nang-suat-ma-at-ns-6/">BẢNG LED NĂNG SUẤT</a></p></div><div class="price-wrapper">
+	<span class="price"><span class="woocommerce-Price-amount amount">3.400.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></span></span>
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+	        </div>
+</div></div>
+
+<style scope="scope">
+
+</style>
+</div>
+<div class="row align-equal align-center"  id="row-140009987">
+<div class="col small-12 large-12"  ><div class="col-inner"  >
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1102680821">
+								<div class="img-inner dark" >
+			<img width="900" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/05/banner-2.png" class="attachment-large size-large" alt="banner ATPro Corp" srcset="https://atpro.com.vn/wp-content/uploads/2019/05/banner-2.png 900w, https://atpro.com.vn/wp-content/uploads/2019/05/banner-2-300x100.png 300w, https://atpro.com.vn/wp-content/uploads/2019/05/banner-2-768x256.png 768w, https://atpro.com.vn/wp-content/uploads/2019/05/banner-2-510x170.png 510w" sizes="(max-width: 900px) 100vw, 900px" />						
+					</div>
+								
+<style scope="scope">
+
+#image_1102680821 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+</div></div>
+
+<style scope="scope">
+
+</style>
+</div>
+<div class="container section-title-container" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" style="font-size:85%;color:rgb(29, 11, 240);"><i class="icon-menu" ></i>MÁY IN PHIẾU, HỆ THỐNG GỌI SỐ THỨ TỰ</span><b></b></h3></div><!-- .section-title -->
+<div class="row align-equal align-center"  id="row-615714990">
+<div class="col small-12 large-12"  ><div class="col-inner"  >
+
+  
+    <div class="row large-columns-5 medium-columns-3 small-columns-2 row-small slider row-slider slider-nav-reveal slider-nav-push"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 7000}'>
+
+  	
+	     
+					
+<div class="product-small col has-hover post-35824 product type-product status-publish has-post-thumbnail product_cat-he-thong-lay-so-thu-tu first instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-goi-so-thu-tu-led-matrix/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/12/bo-goi-so-thu-tu-matrix-01-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="35824" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			HỆ THỐNG GỌI SỐ THỨ TỰ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-goi-so-thu-tu-led-matrix/">BỘ GỌI SỐ THỨ TỰ LED MATRIX</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-35820 product type-product status-publish has-post-thumbnail product_cat-he-thong-lay-so-thu-tu  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/hop-nut-goi-so-tai-quay/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/12/Hop-nut-goi-so-thu-tu-01-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="35820" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			HỆ THỐNG GỌI SỐ THỨ TỰ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/hop-nut-goi-so-tai-quay/">HỘP NÚT GỌI SỐ TẠI QUẦY</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31748 product type-product status-publish has-post-thumbnail product_cat-he-thong-lay-so-thu-tu product_tag-phan-mem-goi-so-thu-tu product_tag-phan-mem-he-thong-goi-so-thu-tu product_tag-phan-mem-he-thong-xep-hang-tu-dong product_tag-phan-mem-lay-so-thu-tu product_tag-phan-mem-lay-so-thu-tu-mien-phi  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/phan-mem-goi-so-thu-tu/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/phan-mem-goi-so-thu-tu-hien-thi-lcd-001-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Phần mềm gọi số thứ tự giao diện lcd" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/may-cap-phieu-thu-tu-kiosk-003-247x300.jpeg" class="show-on-hover absolute fill hide-for-small back-image" alt="Kiosk in phiếu thứ tự" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31748" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			HỆ THỐNG GỌI SỐ THỨ TỰ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/phan-mem-goi-so-thu-tu/">PHẦN MỀM GỌI SỐ THỨ TỰ</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31529 product type-product status-publish has-post-thumbnail product_cat-he-thong-lay-so-thu-tu product_tag-may-cap-phieu-thu-tu product_tag-may-cap-so-thu-tu product_tag-may-in-so-thu-tu product_tag-may-lay-phieu-thu-tu last instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/may-cap-so-thu-tu-tablet/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/may-cap-so-thu-tu-tablet01-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/may-cap-so-thu-tu-tablet01-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31529" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			HỆ THỐNG GỌI SỐ THỨ TỰ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/may-cap-so-thu-tu-tablet/">MÁY CẤP SỐ THỨ TỰ TABLET</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31498 product type-product status-publish has-post-thumbnail product_cat-he-thong-lay-so-thu-tu product_tag-may-cap-phieu-thu-tu product_tag-may-cap-so-thu-tu product_tag-may-in-phieu-thu-tu product_tag-may-in-so-thu-tu product_tag-may-lay-so-thu-tu first instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/kiosk-lay-so-thu-tu-may-in-phieu/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/may-cap-phieu-thu-tu-kiosk-01-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/may-cap-phieu-thu-tu-kiosk-01-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31498" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			HỆ THỐNG GỌI SỐ THỨ TỰ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/kiosk-lay-so-thu-tu-may-in-phieu/">KIOSK LẤY SỐ THỨ TỰ</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31449 product type-product status-publish has-post-thumbnail product_cat-he-thong-lay-so-thu-tu product_tag-bo-goi-so-khong-day product_tag-bo-goi-so-thu-tu-khong-day product_tag-he-thong-goi-so-thu-tu-khong-day product_tag-thiet-bi-goi-so-thu-tu-khong-day  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-goi-so-khong-day-lora/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/05/bo-goi-so-khong-day-sp2-247x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/05/bo-goi-so-khong-day-sp1-247x300.jpeg" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31449" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			HỆ THỐNG GỌI SỐ THỨ TỰ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-goi-so-khong-day-lora/">BỘ GỌI SỐ KHÔNG DÂY LORA</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-29649 product type-product status-publish has-post-thumbnail product_cat-he-thong-lay-so-thu-tu product_tag-may-bam-phieu-thu-tu product_tag-may-in-phieu-thu-tu product_tag-may-lay-so-thu-tu  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/may-in-phieu-thu-tu-may-lay-so-thu-tu/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2018/09/may-in-phieu-thu-tu-sp-01-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="máy in phiếu thứ tự" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="29649" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			HỆ THỐNG GỌI SỐ THỨ TỰ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/may-in-phieu-thu-tu-may-lay-so-thu-tu/">MÁY IN PHIẾU THỨ TỰ &#8211; MÁY LÁY SỐ THỨ TỰ (MÃ: AT POSPT 1)</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-4904 product type-product status-publish has-post-thumbnail product_cat-he-thong-lay-so-thu-tu product_tag-bao-gia-he-thong-xep-hang-dien-tu product_tag-he-thong-lay-so-thu-tu product_tag-he-thong-xep-hang-benh-vien product_tag-may-bam-so product_tag-may-goi-so-thu-tu product_tag-may-in-phieu-thu-tu product_tag-may-in-so-thu-tu-gia-re product_tag-phan-mem-goi-so-thu-tu product_tag-thiet-bi-goi-so-thu-tu-benh-nhan last instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/he-thong-goi-so-thu-tu/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/08/HE-THONG-GOI-SO-THU-TU-HỆ-THỐNG-GỌI-SỐ-THỨ-TỰ-1-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2017/03/MAY-LAY-SO-THU-TU-HE-THONG-XEP-HANG-TU-DONG-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="4904" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			HỆ THỐNG GỌI SỐ THỨ TỰ		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/he-thong-goi-so-thu-tu/">HỆ THỐNG GỌI SỐ THỨ TỰ</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+	        </div>
+</div></div>
+
+<style scope="scope">
+
+</style>
+</div>
+<div class="container section-title-container" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" style="color:rgb(29, 11, 240);"><i class="icon-menu" ></i>CẢM BIẾN SENSOR</span><b></b></h3></div><!-- .section-title -->
+<div class="row align-equal align-center"  id="row-166158728">
+<div class="col small-12 large-12"  ><div class="col-inner"  >
+
+  
+    <div class="row large-columns-5 medium-columns-3 small-columns-2 row-small slider row-slider slider-nav-reveal slider-nav-push"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 7000}'>
+
+  	
+	     
+					
+<div class="product-small col has-hover post-32003 product type-product status-publish has-post-thumbnail product_cat-endress-hauser first instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-ghi-nhan-du-lieu-ecograph-t-rsg35/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/bo-ghi-nhan-du-lieu-ecograph-t-rsg35-3-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="bộ ghi nhận dữ liệu Ecograph" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/bo-ghi-nhan-du-lieu-ecograph-t-rsg35-2-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="thiết bị ghi nhận dữ liệu đồ họa Ecograph T RSG35" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="32003" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ENDRESS + HAUSER		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-ghi-nhan-du-lieu-ecograph-t-rsg35/">BỘ GHI NHẬN DỮ LIỆU ECOGRAPH T RSG35</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31987 product type-product status-publish has-post-thumbnail product_cat-endress-hauser product_tag-bo-hien-thi-da-kenh-liquiline-cm444 product_tag-bo-phat-4-kenh-endress-hauser product_tag-bo-thu-nhan-da-kenh product_tag-thiet-bi-hien-thi-ket-noi-cam-bien  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-hien-thi-da-thong-so-va-ket-noi-cam-bien-liquiline-cm444/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/bo-hien-thi-thong-so-da-kenh-CM444-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="bộ hiển thị thông số" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/bo-hien-thi-thong-so-da-kenh-CM444-1-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="cấu tạo bộ hiển thị CM444" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31987" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			ENDRESS + HAUSER		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-hien-thi-da-thong-so-va-ket-noi-cam-bien-liquiline-cm444/">BỘ HIỂN THỊ ĐA THÔNG SỐ VÀ KẾT NỐI CẢM BIẾN LIQUILINE CM444</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31725 product type-product status-publish has-post-thumbnail product_cat-keyence  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/cam-bien-do-duong-kinh-ky-thuat-so-series-ls-7070/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/cam-bien-do-duong-kinh-ky-thuat-so-LS-7000-Series-1-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31725" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			KEYENCE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/cam-bien-do-duong-kinh-ky-thuat-so-series-ls-7070/">CẢM BIẾN ĐO ĐƯỜNG KÍNH KỸ THUẬT SỐ (SERIES: LS-7070)</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31703 product type-product status-publish has-post-thumbnail product_cat-keyence product_tag-bo-cam-bien-tiep-xuc product_tag-cam-bien-gt2-p12-keyence product_tag-cam-bien-tiep-xuc product_tag-cam-bien-tiep-xuc-ky-thuat-so product_tag-cam-bien-tiep-xuc-loai-but product_tag-dau-cam-bien-tiep-xuc product_tag-dau-cam-bien-tiep-xuc-loai-but last instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/cam-bien-tiep-xuc-ky-thuat-so-do-chinh-xac-cao-series-gt2-p12/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/cam-bien-tiep-xuc-GT2-PA12K-Series-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="CẢM BIẾN TIẾP XÚC KỸ THUẬT SỐ ĐỘ CHÍNH XÁC CAO (SERIES: GT2-P12)" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/cam-bien-tiep-xuc-GT2-PA12K-Series-2-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="CẢM BIẾN TIẾP XÚC KỸ THUẬT SỐ ĐỘ CHÍNH XÁC CAO (SERIES: GT2-P12)" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31703" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			KEYENCE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/cam-bien-tiep-xuc-ky-thuat-so-do-chinh-xac-cao-series-gt2-p12/">CẢM BIẾN TIẾP XÚC KỸ THUẬT SỐ ĐỘ CHÍNH XÁC CAO (SERIES: GT2-P12)</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31686 product type-product status-publish has-post-thumbnail product_cat-keyence product_tag-cam-bien-quang-dien product_tag-cam-bien-quang-dien-cong-nghiep product_tag-cam-bien-quang-dien-keyence product_tag-cam-bien-quang-dien-phat-xa product_tag-cam-bien-quang-dien-px-h61g product_tag-dau-do-quang-dien product_tag-dau-do-quang-dien-cong-suat-lon product_tag-dau-do-quang-dien-px-h61g product_tag-dau-do-quanh-dien-keyence first instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/cam-bien-quang-dien-cong-suat-lon-series-px-h61g/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/cam-bien-quang-dien-PX-H61G-2-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="CẢM BIẾN QUANG ĐIỆN CÔNG SUẤT LỚN (SERIES: PX-H61G)" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/cam-bien-quang-dien-PX-H61G-247x300.jpg" class="show-on-hover absolute fill hide-for-small back-image" alt="CẢM BIẾN QUANG ĐIỆN CÔNG SUẤT LỚN" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31686" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			KEYENCE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/cam-bien-quang-dien-cong-suat-lon-series-px-h61g/">CẢM BIẾN QUANG ĐIỆN CÔNG SUẤT LỚN (SERIES: PX-H61G)</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31656 product type-product status-publish has-post-thumbnail product_cat-keyence product_tag-bo-cam-bien-phat-hien-dich-chuyen-lj-g product_tag-cam-bien-do-dich-chuyen product_tag-cam-bien-do-do-dich-chuyen-keyence product_tag-sensor-laser-2d product_tag-dau-do-dich-chuyen-lj-g-keyence product_tag-dau-do-do-do-dich-chuyen  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-cam-bien-do-dich-chuyen-laser-2d-series-lj-g/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/cam-bien-do-dich-chuyen-LJ-G-Series-5-247x300.gif" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="BỘ CẢM BIẾN ĐỘ DỊCH CHUYỂN LASER 2D (SERIES: LJ-G)" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/cam-bien-do-dich-chuyen-LJ-G-Series-6-247x300.gif" class="show-on-hover absolute fill hide-for-small back-image" alt="BỘ CẢM BIẾN ĐỘ DỊCH CHUYỂN LASER 2D (SERIES: LJ-G)" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31656" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			KEYENCE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-cam-bien-do-dich-chuyen-laser-2d-series-lj-g/">BỘ CẢM BIẾN ĐỘ DỊCH CHUYỂN LASER 2D (SERIES: LJ-G)</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31641 product type-product status-publish has-post-thumbnail product_cat-keyence  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/cam-bien-tinh-dien-loai-cam-tay-series-sk-h050/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/cam-bien-tinh-dien-SK-H050-1-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="CẢM BIẾN TĨNH ĐIỆN LOẠI CẦM TAY (SERIES: SK-H050)" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/cam-bien-tinh-dien-SK-H050-3-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31641" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			KEYENCE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/cam-bien-tinh-dien-loai-cam-tay-series-sk-h050/">CẢM BIẾN TĨNH ĐIỆN LOẠI CẦM TAY (SERIES: SK-H050)</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-31624 product type-product status-publish has-post-thumbnail product_cat-keyence last instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/cam-bien-soi-quang-ky-thuat-so-series-fs-n40/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/cam-bien-soi-quang-FS-N40-Series-247x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="CẢM BIẾN SỢI QUANG KỸ THUẬT SỐ (SERIES: FS-N40)" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/06/cam-bien-soi-quang-FS-N40-Series-4-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="CẢM BIẾN SỢI QUANG KỸ THUẬT SỐ (SERIES: FS-N40)" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="31624" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			KEYENCE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/cam-bien-soi-quang-ky-thuat-so-series-fs-n40/">CẢM BIẾN SỢI QUANG KỸ THUẬT SỐ (SERIES: FS-N40)</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+	        </div>
+</div></div>
+
+<style scope="scope">
+
+</style>
+</div>
+<div class="container section-title-container" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" style="font-size:85%;color:rgb(29, 11, 240);"><i class="icon-menu" ></i>THIẾT BỊ QUẢN LÝ BÃI ĐỖ XE</span><b></b></h3></div><!-- .section-title -->
+<div class="row align-equal align-center"  id="row-1600952417">
+<div class="col small-12 large-12"  ><div class="col-inner"  >
+
+  
+    <div class="row large-columns-5 medium-columns-3 small-columns-2 row-small slider row-slider slider-nav-reveal slider-nav-push"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 7000}'>
+
+  	
+	     
+					
+<div class="product-small col has-hover post-1654 product type-product status-publish has-post-thumbnail product_cat-quan-ly-bai-do-xe-parking-system-toll-station product_tag-bang-led-hien-thi product_tag-bang-led-hien-thi-cho-trong-bai-do-xe product_tag-he-thong-quan-ly-bai-do-xe-tu-dong product_tag-man-hinh-led-hien-thi product_tag-parking-lot-led product_tag-quan-ly-bai-do-xe first instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bang-led-hien-thi-cho-trong-bai-do-xe-tu-dong/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/parking-lot-led-2-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="bảng led hiển thị chỗ trống bãi đỗ xe" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/parking-lot-led-2-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="bảng led hiển thị chỗ trống bãi đỗ xe" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1654" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			QUẢN LÝ BÃI ĐỖ XE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bang-led-hien-thi-cho-trong-bai-do-xe-tu-dong/">BẢNG LED HIỂN THỊ CHỖ TRỐNG BÃI ĐỖ XE TỰ ĐỘNG</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1649 product type-product status-publish has-post-thumbnail product_cat-quan-ly-bai-do-xe-parking-system-toll-station product_tag-cung-cap-dau-doc-the-rfid product_tag-gia-dau-doc-the-rfid product_tag-long-range-rfid-reader product_tag-ung-dung-dau-doc-rfid product_tag-dau-doc-rfid-la-gi product_tag-dau-doc-rfid-tam-xa product_tag-dau-doc-rfid-uhf product_tag-dau-doc-the-rfid  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/dau-doc-the-rfid-tam-xa-12-met-ws-uhf5112/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/rfid-long-range-reader-3-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="đầu đọc thẻ rfid tầm xa" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/rfid-long-range-reader-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1649" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			QUẢN LÝ BÃI ĐỖ XE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/dau-doc-the-rfid-tam-xa-12-met-ws-uhf5112/">ĐẦU ĐỌC RFID TẦM XA 12 MÉT WS-UHF5112</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1640 product type-product status-publish has-post-thumbnail product_cat-quan-ly-bai-do-xe-parking-system-toll-station product_tag-bo-do-vong-tu product_tag-cam-bien-do-vong-tu product_tag-cam-bien-vong-tu product_tag-loop-detector  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/cam-bien-vong-tu-loop-detector-loai-2-kenh-wpb-lp02/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/cam-bien-vong-tu-loop-detector-2-KENH-2--247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="cảm biến vòng từ loop detector 2 kênh" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/cam-bien-vong-tu-loop-detector-2-KENH-2--247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="cảm biến vòng từ loop detector 2 kênh" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1640" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			QUẢN LÝ BÃI ĐỖ XE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/cam-bien-vong-tu-loop-detector-loai-2-kenh-wpb-lp02/">CẢM BIẾN VÒNG TỪ &#8211; LOOP DETECTOR LOẠI 2 KÊNH WPB-LP02</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1631 product type-product status-publish has-post-thumbnail product_cat-quan-ly-bai-do-xe-parking-system-toll-station product_tag-bo-do-vong-tu product_tag-cam-bien-vong-tu product_tag-cam-bien-vong-tu-1-kenh product_tag-loop-detector last instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/bo-do-vong-tu-1-kenh-loop-detector/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/cam-bien-vong-tu-1-kenh-loop-detector-2-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="cảm biến vòng từ 1 kênh loop detector" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/cam-bien-vong-tu-loop-detector-4-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1631" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			QUẢN LÝ BÃI ĐỖ XE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/bo-do-vong-tu-1-kenh-loop-detector/">BỘ DÒ VÒNG TỪ 1 KÊNH &#8211; LOOP DETECTOR WS-LP01</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1625 product type-product status-publish has-post-thumbnail product_cat-quan-ly-bai-do-xe-parking-system-toll-station product_tag-cot-den-giao-thong product_tag-he-thong-quan-ly-bai-do-xe-tu-dong product_tag-he-thong-den-giao-thong-thong-minh product_tag-traffic-light product_tag-den-giao-thong product_tag-den-giao-thong-bai-do-xe first instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/den-tin-hieu-giao-thong-bai-do-xe-va-tram-thu-phi/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/Traffic-Light-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="đèn giao thông cho bãi đỗ xe" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/Traffic-Light-1-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1625" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			QUẢN LÝ BÃI ĐỖ XE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/den-tin-hieu-giao-thong-bai-do-xe-va-tram-thu-phi/">ĐÈN TÍN HIỆU GIAO THÔNG BÃI ĐỖ XE VÀ TRẠM THU PHÍ</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1613 product type-product status-publish has-post-thumbnail product_cat-quan-ly-bai-do-xe-parking-system-toll-station product_tag-barrier product_tag-cong-barrier-tu-dong product_tag-cong-barrier-dien product_tag-he-thong-quan-ly-bai-do-xe-tu-dong product_tag-parking-control product_tag-rao-chan-barrier product_tag-thanh-chan-barrier product_tag-dau-do-xe  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/cong-barrier-tu-dong-cho-tram-thu-phi-bai-do-xe/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/Parking-Barrier7-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="cổng barrier tự động bãi đỗ xe" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/Parking-Barrier9-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="barrier tự động" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1613" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			QUẢN LÝ BÃI ĐỖ XE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/cong-barrier-tu-dong-cho-tram-thu-phi-bai-do-xe/">CỔNG BARRIER TỰ ĐỘNG CHO TRẠM THU PHÍ &#8211; BÃI ĐỖ XE</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+					
+<div class="product-small col has-hover post-1607 product type-product status-publish has-post-thumbnail product_cat-quan-ly-bai-do-xe-parking-system-toll-station product_tag-barrier-toc-do-cao product_tag-cong-barrier-tu-dong product_tag-cong-barrier-dien product_tag-he-thong-quan-ly-bai-do-xe-tu-dong product_tag-parking-system product_tag-quan-ly-bai-do-xe product_tag-rao-chan-barrier product_tag-thanh-chan-barrier  instock taxable shipping-taxable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-fade_in_back">
+				<a href="https://atpro.com.vn/san-pham/cong-barrier-toc-do-cao-barrier-tu-dong/">
+					<img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/Parking-Barrier-247x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" /><img width="247" height="300" src="https://atpro.com.vn/wp-content/uploads/2016/12/Parking-Barrier-247x300.png" class="show-on-hover absolute fill hide-for-small back-image" alt="" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+				  <a class="quick-view" data-prod="1607" href="#quick-view">Quick View</a>			</div>
+					</div><!-- box-image -->
+
+		<div class="box-text box-text-products">
+			<div class="title-wrapper">		<p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+			QUẢN LÝ BÃI ĐỖ XE		</p> <p class="name product-title"><a href="https://atpro.com.vn/san-pham/cong-barrier-toc-do-cao-barrier-tu-dong/">CỔNG BARRIER TỐC ĐỘ CAO &#8211; BARRIER TỰ ĐỘNG</a></p></div><div class="price-wrapper">
+</div>		</div><!-- box-text -->
+	</div><!-- box -->
+		</div><!-- .col-inner -->
+</div><!-- col -->
+	            
+	        </div>
+</div></div>
+
+<style scope="scope">
+
+</style>
+</div>
+<div class="container section-title-container" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" style="font-size:85%;color:rgb(29, 11, 240);"><i class="icon-menu" ></i>PHẦN MỀM SCADA</span><b></b></h3></div><!-- .section-title -->
+<div class="row"  id="row-1038044390">
+<div class="col small-12 large-12"  ><div class="col-inner"  >
+
+  
+    <div class="row large-columns-5 medium-columns-3 small-columns-2 has-shadow row-box-shadow-1 slider row-slider slider-nav-reveal slider-nav-push"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : false}'>
+
+  		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/cau-truc-phan-mem-scada/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="171" src="https://atpro.com.vn/wp-content/uploads/2019/08/cau-truc-scada-3-2-300x171.jpg" class="attachment-medium size-medium wp-post-image" alt="ATPro Corp cung cấp cho người dùng phần mềm ATSCADA tốt nhất" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/cau-truc-scada-3-2-300x171.jpg 300w, https://atpro.com.vn/wp-content/uploads/2019/08/cau-truc-scada-3-2-510x290.jpg 510w, https://atpro.com.vn/wp-content/uploads/2019/08/cau-truc-scada-3-2.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">GIỚI THIỆU VỀ CẤU TRÚC PHẦN MỀM SCADA</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/phan-mem-thiet-ke-scada-vijeo-citect/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="213" src="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-thiet-ke-scada-Vijeo-Citect-2-300x213.png" class="attachment-medium size-medium wp-post-image" alt="ATPro Corp cung cấp hệ thống phần mềm Vijeo Citect toàn diện" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-thiet-ke-scada-Vijeo-Citect-2-300x213.png 300w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-thiet-ke-scada-Vijeo-Citect-2-510x361.png 510w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-thiet-ke-scada-Vijeo-Citect-2.png 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">PHẦN MỀM THIẾT KẾ SCADA &#8211; VIJEO CITECT</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/phan-mem-scada-web-server-siemen/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="190" src="https://atpro.com.vn/wp-content/uploads/2019/08/Scada-web-server-siemen-2-300x190.jpg" class="attachment-medium size-medium wp-post-image" alt="Scada web server siemen là một phần mềm tự động hóa" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/Scada-web-server-siemen-2-300x190.jpg 300w, https://atpro.com.vn/wp-content/uploads/2019/08/Scada-web-server-siemen-2-510x323.jpg 510w, https://atpro.com.vn/wp-content/uploads/2019/08/Scada-web-server-siemen-2.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">TỔNG QUAN VỀ PHẦN MỀM SCADA WEB SERVER SIEMEN</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/phan-mem-scada-intouch-wonderware-la-gi/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="296" src="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-Intouch-Wonderware-1-300x296.jpg" class="attachment-medium size-medium wp-post-image" alt="Scada Intouch Wonderware cung cấp tính năng đồ họa mạnh mẽ" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-Intouch-Wonderware-1-300x296.jpg 300w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-Intouch-Wonderware-1-510x503.jpg 510w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-Intouch-Wonderware-1-100x100.jpg 100w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-Intouch-Wonderware-1.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">PHẦN MỀM SCADA INTOUCH WONDERWARE LÀ GÌ?</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/phan-mem-mo-phong-he-thong-scada/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="216" src="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-mo-phong-he-thong-scada-1-300x216.jpg" class="attachment-medium size-medium wp-post-image" alt="WinCC đang sử dụng công nghệ phần mềm mới nhất" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-mo-phong-he-thong-scada-1-300x216.jpg 300w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-mo-phong-he-thong-scada-1-510x368.jpg 510w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-mo-phong-he-thong-scada-1.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">PHẦN MỀM MÔ PHỎNG HỆ THỐNG SCADA</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/phan-mem-scada-mien-phi/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="131" src="https://atpro.com.vn/wp-content/uploads/2019/08/Phan-mem-scada-mien-phi-2-1-300x131.jpg" class="attachment-medium size-medium wp-post-image" alt="Phần mềm Scada miễn phí giúp kiểm soát quy trình sản xuất từ xa hoặc tại chỗ" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/Phan-mem-scada-mien-phi-2-1-300x131.jpg 300w, https://atpro.com.vn/wp-content/uploads/2019/08/Phan-mem-scada-mien-phi-2-1-510x223.jpg 510w, https://atpro.com.vn/wp-content/uploads/2019/08/Phan-mem-scada-mien-phi-2-1.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">TỔNG QUAN VỀ PHẦN MỀM SCADA MIỄN PHÍ</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/phan-mem-scada-abb/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="202" src="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-abb-2-300x202.jpg" class="attachment-medium size-medium wp-post-image" alt="Scada ABB kiểm soát các quy trình sản xuất công nghiệp tại chỗ hoặc từ xa" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-abb-2-300x202.jpg 300w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-abb-2-510x344.jpg 510w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-abb-2.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">TÌM HIỂU VỀ PHẦN MỀM SCADA ABB</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/phan-mem-scada-siemens/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="192" src="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-Siemens-2-2-300x192.png" class="attachment-medium size-medium wp-post-image" alt="Scada Siemens là một phần mềm tự động hóa" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-Siemens-2-2-300x192.png 300w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-Siemens-2-2-510x326.png 510w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-Siemens-2-2.png 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">PHẦN MỀM SCADA SIEMENS CÓ GÌ ĐẶC BIỆT?</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/phan-mem-scada-intouch-cua-wonderware/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="225" src="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-intouch-2-1-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="Phần mềm intouch Wonderware phiên bản 9.5" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-intouch-2-1-300x225.jpg 300w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-intouch-2-1-510x383.jpg 510w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-Scada-intouch-2-1.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">TÍNH NĂNG CỦA PHẦN MỀM SCADA INTOUCH CỦA WONDERWARE</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/phan-mem-scada-ifix/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="214" src="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-ifix-2-1-300x214.png" class="attachment-medium size-medium wp-post-image" alt="Phần mềm Scada ifix sở hữu nhiều tính năng vượt trội" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-ifix-2-1-300x214.png 300w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-ifix-2-1-510x364.png 510w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-ifix-2-1.png 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">NHỮNG TÍNH NĂNG NỔI BẬT CỦA PHẦN MỀM SCADA IFIX</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/phan-mem-scada-cua-mitsubishi/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="169" src="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-msb3-1-300x169.jpg" class="attachment-medium size-medium wp-post-image" alt="ATPro Corp cung cấp phần mềm SCADA có tính ứng dụng cao" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-msb3-1-300x169.jpg 300w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-msb3-1-510x288.jpg 510w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-msb3-1.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">SƠ LƯỢC VỀ PHẦN MỀM SCADA CỦA MITSUBISHI</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+		<div class="col post-item" >
+			<div class="col-inner">
+			<a href="https://atpro.com.vn/phan-mem-scada-citect/" class="plain">
+				<div class="box box-default box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:100%;">
+  							<img width="300" height="300" src="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-2-300x300.png" class="attachment-medium size-medium wp-post-image" alt="ATPro Corp cung cấp phần mềm SCADA chuẩn thương hiệu Việt" srcset="https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-2-300x300.png 300w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-2-510x510.png 510w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-2-100x100.png 100w, https://atpro.com.vn/wp-content/uploads/2019/08/phan-mem-scada-2.png 700w" sizes="(max-width: 300px) 100vw, 300px" />  							  							  						</div>
+  						  					</div><!-- .box-image -->
+          					<div class="box-text text-center is-small" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label  is-xxsmall op-7 uppercase">
+					PHẦN MỀM SCADA 					</p>
+										<h5 class="post-title is-large ">TỔNG QUAN VỀ PHẦN MỀM SCADA CITECT</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div><!-- .box-text-inner -->
+					</div><!-- .box-text -->
+									</div><!-- .box -->
+				</a><!-- .link -->
+			</div><!-- .col-inner -->
+		</div><!-- .col -->
+</div>
+</div></div>
+</div>
+		
+				
+</div>
+
+
+
+</main><!-- #main -->
+
+<footer id="footer" class="footer-wrapper">
+
+	
+<!-- FOOTER 1 -->
+
+
+<!-- FOOTER 2 -->
+<div class="footer-widgets footer footer-2 dark">
+		<div class="row dark large-columns-4 mb-0">
+	   		<div id="text-13" class="col pb-0 widget widget_text">			<div class="textwidget"><p><img class="aligncenter size-full wp-image-31657" src="https://atpro.com.vn/wp-content/uploads/2019/06/Hotline.png" alt="" width="228" height="243" /></p>
+</div>
+		</div>		<div id="flatsome_recent_posts-18" class="col pb-0 widget flatsome_recent_posts">		<span class="widget-title">BÀI VIẾT GẦN ĐÂY</span><div class="is-divider small"></div>		<ul>		
+		
+		<li class="recent-blog-posts-li">
+			<div class="flex-row recent-blog-posts align-top pt-half pb-half">
+				<div class="flex-col mr-half">
+					<div class="badge post-date badge-small badge-outline">
+							<div class="badge-inner bg-fill" >
+								<span class="post-date-day">11</span><br>
+								<span class="post-date-month is-xsmall">Th3</span>
+							</div>
+					</div>
+				</div><!-- .flex-col -->
+				<div class="flex-col flex-grow">
+					  <a href="https://atpro.com.vn/dong-ho-dong-bo-thoi-gian-ntp/" title="ĐỒNG HỒ ĐỒNG BỘ THỜI GIAN NTP">ĐỒNG HỒ ĐỒNG BỘ THỜI GIAN NTP</a>
+				   	  <span class="post_comments oppercase op-7 block is-xsmall"><a href="https://atpro.com.vn/dong-ho-dong-bo-thoi-gian-ntp/#respond"></a></span>
+				</div>
+			</div><!-- .flex-row -->
+		</li>
+		
+		
+		<li class="recent-blog-posts-li">
+			<div class="flex-row recent-blog-posts align-top pt-half pb-half">
+				<div class="flex-col mr-half">
+					<div class="badge post-date badge-small badge-outline">
+							<div class="badge-inner bg-fill" >
+								<span class="post-date-day">28</span><br>
+								<span class="post-date-month is-xsmall">Th2</span>
+							</div>
+					</div>
+				</div><!-- .flex-col -->
+				<div class="flex-col flex-grow">
+					  <a href="https://atpro.com.vn/he-thong-giam-sat-nhiet-am-da-kenh-atpro-corp/" title="HỆ THỐNG GIÁM SÁT NHIỆT ẨM ĐA KÊNH – CTY DƯỢC PHẨM ANVET">HỆ THỐNG GIÁM SÁT NHIỆT ẨM ĐA KÊNH – CTY DƯỢC PHẨM ANVET</a>
+				   	  <span class="post_comments oppercase op-7 block is-xsmall"><a href="https://atpro.com.vn/he-thong-giam-sat-nhiet-am-da-kenh-atpro-corp/#respond"></a></span>
+				</div>
+			</div><!-- .flex-row -->
+		</li>
+		
+		
+		<li class="recent-blog-posts-li">
+			<div class="flex-row recent-blog-posts align-top pt-half pb-half">
+				<div class="flex-col mr-half">
+					<div class="badge post-date badge-small badge-outline">
+							<div class="badge-inner bg-fill" >
+								<span class="post-date-day">26</span><br>
+								<span class="post-date-month is-xsmall">Th2</span>
+							</div>
+					</div>
+				</div><!-- .flex-col -->
+				<div class="flex-col flex-grow">
+					  <a href="https://atpro.com.vn/bang-dien-tu-theo-doi-nhiet-do-cty-ha-thanh/" title="BẢNG ĐIỆN TỬ THEO DÕI NHIỆT ĐỘ &#8211; CTY HÀ THANH">BẢNG ĐIỆN TỬ THEO DÕI NHIỆT ĐỘ &#8211; CTY HÀ THANH</a>
+				   	  <span class="post_comments oppercase op-7 block is-xsmall"><a href="https://atpro.com.vn/bang-dien-tu-theo-doi-nhiet-do-cty-ha-thanh/#respond"></a></span>
+				</div>
+			</div><!-- .flex-row -->
+		</li>
+				</ul>		</div><div id="text-11" class="col pb-0 widget widget_text"><span class="widget-title">TRỤ SỞ CHÍNH</span><div class="is-divider small"></div>			<div class="textwidget"><p><strong>Địa chỉ:</strong><br />
+60 – Đường số 1 – P.Tân Thành<br />
+– Q.Tân Phú – Tp.HCM – Việt Nam<br />
+<strong> Điện thoại:<br />
+</strong>028.3842.5001 &#8211; 028.3842.5226<br />
+<strong>Email:</strong><br />
+info@atpro.com.vn</p>
+</div>
+		</div><div id="text-12" class="col pb-0 widget widget_text"><span class="widget-title">NHÀ MÁY SẢN XUẤT</span><div class="is-divider small"></div>			<div class="textwidget"><p><strong>Địa chỉ:</strong><br />
+732-734 Nguyễn Văn Linh<br />
+– Tp.Quảng Ngãi – Việt Nam<br />
+<strong> Điện thoại:<br />
+</strong>0255.384.7799 &#8211; 0916.113.842<br />
+<strong>Email:</strong><br />
+uyenptd@atpro.com.vn</p>
+</div>
+		</div>        
+		</div><!-- end row -->
+</div><!-- end footer 2 -->
+
+
+
+<div class="absolute-footer dark medium-text-center small-text-center">
+  <div class="container clearfix">
+
+          <div class="footer-secondary pull-right">
+                <div class="payment-icons inline-block"><div class="payment-icon"><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 64 32">
+<path d="M10.781 7.688c-0.251-1.283-1.219-1.688-2.344-1.688h-8.376l-0.061 0.405c5.749 1.469 10.469 4.595 12.595 10.501l-1.813-9.219zM13.125 19.688l-0.531-2.781c-1.096-2.907-3.752-5.594-6.752-6.813l4.219 15.939h5.469l8.157-20.032h-5.501l-5.062 13.688zM27.72 26.061l3.248-20.061h-5.187l-3.251 20.061h5.189zM41.875 5.656c-5.125 0-8.717 2.72-8.749 6.624-0.032 2.877 2.563 4.469 4.531 5.439 2.032 0.968 2.688 1.624 2.688 2.499 0 1.344-1.624 1.939-3.093 1.939-2.093 0-3.219-0.251-4.875-1.032l-0.688-0.344-0.719 4.499c1.219 0.563 3.437 1.064 5.781 1.064 5.437 0.032 8.97-2.688 9.032-6.843 0-2.282-1.405-4-4.376-5.439-1.811-0.904-2.904-1.563-2.904-2.499 0-0.843 0.936-1.72 2.968-1.72 1.688-0.029 2.936 0.314 3.875 0.752l0.469 0.248 0.717-4.344c-1.032-0.406-2.656-0.844-4.656-0.844zM55.813 6c-1.251 0-2.189 0.376-2.72 1.688l-7.688 18.374h5.437c0.877-2.467 1.096-3 1.096-3 0.592 0 5.875 0 6.624 0 0 0 0.157 0.688 0.624 3h4.813l-4.187-20.061h-4zM53.405 18.938c0 0 0.437-1.157 2.064-5.594-0.032 0.032 0.437-1.157 0.688-1.907l0.374 1.72c0.968 4.781 1.189 5.781 1.189 5.781-0.813 0-3.283 0-4.315 0z"></path>
+</svg>
+</div><div class="payment-icon"><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 64 32">
+<path d="M35.255 12.078h-2.396c-0.229 0-0.444 0.114-0.572 0.303l-3.306 4.868-1.4-4.678c-0.088-0.292-0.358-0.493-0.663-0.493h-2.355c-0.284 0-0.485 0.28-0.393 0.548l2.638 7.745-2.481 3.501c-0.195 0.275 0.002 0.655 0.339 0.655h2.394c0.227 0 0.439-0.111 0.569-0.297l7.968-11.501c0.191-0.275-0.006-0.652-0.341-0.652zM19.237 16.718c-0.23 1.362-1.311 2.276-2.691 2.276-0.691 0-1.245-0.223-1.601-0.644-0.353-0.417-0.485-1.012-0.374-1.674 0.214-1.35 1.313-2.294 2.671-2.294 0.677 0 1.227 0.225 1.589 0.65 0.365 0.428 0.509 1.027 0.404 1.686zM22.559 12.078h-2.384c-0.204 0-0.378 0.148-0.41 0.351l-0.104 0.666-0.166-0.241c-0.517-0.749-1.667-1-2.817-1-2.634 0-4.883 1.996-5.321 4.796-0.228 1.396 0.095 2.731 0.888 3.662 0.727 0.856 1.765 1.212 3.002 1.212 2.123 0 3.3-1.363 3.3-1.363l-0.106 0.662c-0.040 0.252 0.155 0.479 0.41 0.479h2.147c0.341 0 0.63-0.247 0.684-0.584l1.289-8.161c0.040-0.251-0.155-0.479-0.41-0.479zM8.254 12.135c-0.272 1.787-1.636 1.787-2.957 1.787h-0.751l0.527-3.336c0.031-0.202 0.205-0.35 0.41-0.35h0.345c0.899 0 1.747 0 2.185 0.511 0.262 0.307 0.341 0.761 0.242 1.388zM7.68 7.473h-4.979c-0.341 0-0.63 0.248-0.684 0.584l-2.013 12.765c-0.040 0.252 0.155 0.479 0.41 0.479h2.378c0.34 0 0.63-0.248 0.683-0.584l0.543-3.444c0.053-0.337 0.343-0.584 0.683-0.584h1.575c3.279 0 5.172-1.587 5.666-4.732 0.223-1.375 0.009-2.456-0.635-3.212-0.707-0.832-1.962-1.272-3.628-1.272zM60.876 7.823l-2.043 12.998c-0.040 0.252 0.155 0.479 0.41 0.479h2.055c0.34 0 0.63-0.248 0.683-0.584l2.015-12.765c0.040-0.252-0.155-0.479-0.41-0.479h-2.299c-0.205 0.001-0.379 0.148-0.41 0.351zM54.744 16.718c-0.23 1.362-1.311 2.276-2.691 2.276-0.691 0-1.245-0.223-1.601-0.644-0.353-0.417-0.485-1.012-0.374-1.674 0.214-1.35 1.313-2.294 2.671-2.294 0.677 0 1.227 0.225 1.589 0.65 0.365 0.428 0.509 1.027 0.404 1.686zM58.066 12.078h-2.384c-0.204 0-0.378 0.148-0.41 0.351l-0.104 0.666-0.167-0.241c-0.516-0.749-1.667-1-2.816-1-2.634 0-4.883 1.996-5.321 4.796-0.228 1.396 0.095 2.731 0.888 3.662 0.727 0.856 1.765 1.212 3.002 1.212 2.123 0 3.3-1.363 3.3-1.363l-0.106 0.662c-0.040 0.252 0.155 0.479 0.41 0.479h2.147c0.341 0 0.63-0.247 0.684-0.584l1.289-8.161c0.040-0.252-0.156-0.479-0.41-0.479zM43.761 12.135c-0.272 1.787-1.636 1.787-2.957 1.787h-0.751l0.527-3.336c0.031-0.202 0.205-0.35 0.41-0.35h0.345c0.899 0 1.747 0 2.185 0.511 0.261 0.307 0.34 0.761 0.241 1.388zM43.187 7.473h-4.979c-0.341 0-0.63 0.248-0.684 0.584l-2.013 12.765c-0.040 0.252 0.156 0.479 0.41 0.479h2.554c0.238 0 0.441-0.173 0.478-0.408l0.572-3.619c0.053-0.337 0.343-0.584 0.683-0.584h1.575c3.279 0 5.172-1.587 5.666-4.732 0.223-1.375 0.009-2.456-0.635-3.212-0.707-0.832-1.962-1.272-3.627-1.272z"></path>
+</svg>
+</div><div class="payment-icon"><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 64 32">
+<path d="M7.114 14.656c-1.375-0.5-2.125-0.906-2.125-1.531 0-0.531 0.437-0.812 1.188-0.812 1.437 0 2.875 0.531 3.875 1.031l0.563-3.5c-0.781-0.375-2.406-1-4.656-1-1.594 0-2.906 0.406-3.844 1.188-1 0.812-1.5 2-1.5 3.406 0 2.563 1.563 3.688 4.125 4.594 1.625 0.594 2.188 1 2.188 1.656 0 0.625-0.531 0.969-1.5 0.969-1.188 0-3.156-0.594-4.437-1.343l-0.563 3.531c1.094 0.625 3.125 1.281 5.25 1.281 1.688 0 3.063-0.406 4.031-1.157 1.063-0.843 1.594-2.062 1.594-3.656-0.001-2.625-1.595-3.719-4.188-4.657zM21.114 9.125h-3v-4.219l-4.031 0.656-0.563 3.563-1.437 0.25-0.531 3.219h1.937v6.844c0 1.781 0.469 3 1.375 3.75 0.781 0.625 1.907 0.938 3.469 0.938 1.219 0 1.937-0.219 2.468-0.344v-3.688c-0.282 0.063-0.938 0.22-1.375 0.22-0.906 0-1.313-0.5-1.313-1.563v-6.156h2.406l0.595-3.469zM30.396 9.031c-0.313-0.062-0.594-0.093-0.876-0.093-1.312 0-2.374 0.687-2.781 1.937l-0.313-1.75h-4.093v14.719h4.687v-9.563c0.594-0.719 1.437-0.968 2.563-0.968 0.25 0 0.5 0 0.812 0.062v-4.344zM33.895 2.719c-1.375 0-2.468 1.094-2.468 2.469s1.094 2.5 2.468 2.5 2.469-1.124 2.469-2.5-1.094-2.469-2.469-2.469zM36.239 23.844v-14.719h-4.687v14.719h4.687zM49.583 10.468c-0.843-1.094-2-1.625-3.469-1.625-1.343 0-2.531 0.563-3.656 1.75l-0.25-1.469h-4.125v20.155l4.688-0.781v-4.719c0.719 0.219 1.469 0.344 2.125 0.344 1.157 0 2.876-0.313 4.188-1.75 1.281-1.375 1.907-3.5 1.907-6.313 0-2.499-0.469-4.405-1.407-5.593zM45.677 19.532c-0.375 0.687-0.969 1.094-1.625 1.094-0.468 0-0.906-0.093-1.281-0.281v-7c0.812-0.844 1.531-0.938 1.781-0.938 1.188 0 1.781 1.313 1.781 3.812 0.001 1.437-0.219 2.531-0.656 3.313zM62.927 10.843c-1.032-1.312-2.563-2-4.501-2-4 0-6.468 2.938-6.468 7.688 0 2.625 0.656 4.625 1.968 5.875 1.157 1.157 2.844 1.719 5.032 1.719 2 0 3.844-0.469 5-1.251l-0.501-3.219c-1.157 0.625-2.5 0.969-4 0.969-0.906 0-1.532-0.188-1.969-0.594-0.5-0.406-0.781-1.094-0.875-2.062h7.75c0.031-0.219 0.062-1.281 0.062-1.625 0.001-2.344-0.5-4.188-1.499-5.5zM56.583 15.094c0.125-2.093 0.687-3.062 1.75-3.062s1.625 1 1.687 3.062h-3.437z"></path>
+</svg>
+</div><div class="payment-icon"><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 64 32">
+<path d="M42.667-0c-4.099 0-7.836 1.543-10.667 4.077-2.831-2.534-6.568-4.077-10.667-4.077-8.836 0-16 7.163-16 16s7.164 16 16 16c4.099 0 7.835-1.543 10.667-4.077 2.831 2.534 6.568 4.077 10.667 4.077 8.837 0 16-7.163 16-16s-7.163-16-16-16zM11.934 19.828l0.924-5.809-2.112 5.809h-1.188v-5.809l-1.056 5.809h-1.584l1.32-7.657h2.376v4.753l1.716-4.753h2.508l-1.32 7.657h-1.585zM19.327 18.244c-0.088 0.528-0.178 0.924-0.264 1.188v0.396h-1.32v-0.66c-0.353 0.528-0.924 0.792-1.716 0.792-0.442 0-0.792-0.132-1.056-0.396-0.264-0.351-0.396-0.792-0.396-1.32 0-0.792 0.218-1.364 0.66-1.716 0.614-0.44 1.364-0.66 2.244-0.66h0.66v-0.396c0-0.351-0.353-0.528-1.056-0.528-0.442 0-1.012 0.088-1.716 0.264 0.086-0.351 0.175-0.792 0.264-1.32 0.703-0.264 1.32-0.396 1.848-0.396 1.496 0 2.244 0.616 2.244 1.848 0 0.353-0.046 0.749-0.132 1.188-0.089 0.616-0.179 1.188-0.264 1.716zM24.079 15.076c-0.264-0.086-0.66-0.132-1.188-0.132s-0.792 0.177-0.792 0.528c0 0.177 0.044 0.31 0.132 0.396l0.528 0.264c0.792 0.442 1.188 1.012 1.188 1.716 0 1.409-0.838 2.112-2.508 2.112-0.792 0-1.366-0.044-1.716-0.132 0.086-0.351 0.175-0.836 0.264-1.452 0.703 0.177 1.188 0.264 1.452 0.264 0.614 0 0.924-0.175 0.924-0.528 0-0.175-0.046-0.308-0.132-0.396-0.178-0.175-0.396-0.308-0.66-0.396-0.792-0.351-1.188-0.924-1.188-1.716 0-1.407 0.792-2.112 2.376-2.112 0.792 0 1.32 0.045 1.584 0.132l-0.265 1.451zM27.512 15.208h-0.924c0 0.442-0.046 0.838-0.132 1.188 0 0.088-0.022 0.264-0.066 0.528-0.046 0.264-0.112 0.442-0.198 0.528v0.528c0 0.353 0.175 0.528 0.528 0.528 0.175 0 0.35-0.044 0.528-0.132l-0.264 1.452c-0.264 0.088-0.66 0.132-1.188 0.132-0.881 0-1.32-0.44-1.32-1.32 0-0.528 0.086-1.099 0.264-1.716l0.66-4.225h1.584l-0.132 0.924h0.792l-0.132 1.585zM32.66 17.32h-3.3c0 0.442 0.086 0.749 0.264 0.924 0.264 0.264 0.66 0.396 1.188 0.396s1.1-0.175 1.716-0.528l-0.264 1.584c-0.442 0.177-1.012 0.264-1.716 0.264-1.848 0-2.772-0.924-2.772-2.773 0-1.142 0.264-2.024 0.792-2.64 0.528-0.703 1.188-1.056 1.98-1.056 0.703 0 1.274 0.22 1.716 0.66 0.35 0.353 0.528 0.881 0.528 1.584 0.001 0.617-0.046 1.145-0.132 1.585zM35.3 16.132c-0.264 0.97-0.484 2.201-0.66 3.697h-1.716l0.132-0.396c0.35-2.463 0.614-4.4 0.792-5.809h1.584l-0.132 0.924c0.264-0.44 0.528-0.703 0.792-0.792 0.264-0.264 0.528-0.308 0.792-0.132-0.088 0.088-0.31 0.706-0.66 1.848-0.353-0.086-0.661 0.132-0.925 0.66zM41.241 19.697c-0.353 0.177-0.838 0.264-1.452 0.264-0.881 0-1.584-0.308-2.112-0.924-0.528-0.528-0.792-1.32-0.792-2.376 0-1.32 0.35-2.42 1.056-3.3 0.614-0.879 1.496-1.32 2.64-1.32 0.44 0 1.056 0.132 1.848 0.396l-0.264 1.584c-0.528-0.264-1.012-0.396-1.452-0.396-0.707 0-1.235 0.264-1.584 0.792-0.353 0.442-0.528 1.144-0.528 2.112 0 0.616 0.132 1.056 0.396 1.32 0.264 0.353 0.614 0.528 1.056 0.528 0.44 0 0.924-0.132 1.452-0.396l-0.264 1.717zM47.115 15.868c-0.046 0.264-0.066 0.484-0.066 0.66-0.088 0.442-0.178 1.035-0.264 1.782-0.088 0.749-0.178 1.254-0.264 1.518h-1.32v-0.66c-0.353 0.528-0.924 0.792-1.716 0.792-0.442 0-0.792-0.132-1.056-0.396-0.264-0.351-0.396-0.792-0.396-1.32 0-0.792 0.218-1.364 0.66-1.716 0.614-0.44 1.32-0.66 2.112-0.66h0.66c0.086-0.086 0.132-0.218 0.132-0.396 0-0.351-0.353-0.528-1.056-0.528-0.442 0-1.012 0.088-1.716 0.264 0-0.351 0.086-0.792 0.264-1.32 0.703-0.264 1.32-0.396 1.848-0.396 1.496 0 2.245 0.616 2.245 1.848 0.001 0.089-0.021 0.264-0.065 0.529zM49.69 16.132c-0.178 0.528-0.396 1.762-0.66 3.697h-1.716l0.132-0.396c0.35-1.935 0.614-3.872 0.792-5.809h1.584c0 0.353-0.046 0.66-0.132 0.924 0.264-0.44 0.528-0.703 0.792-0.792 0.35-0.175 0.614-0.218 0.792-0.132-0.353 0.442-0.574 1.056-0.66 1.848-0.353-0.086-0.66 0.132-0.925 0.66zM54.178 19.828l0.132-0.528c-0.353 0.442-0.838 0.66-1.452 0.66-0.707 0-1.188-0.218-1.452-0.66-0.442-0.614-0.66-1.232-0.66-1.848 0-1.142 0.308-2.067 0.924-2.773 0.44-0.703 1.056-1.056 1.848-1.056 0.528 0 1.056 0.264 1.584 0.792l0.264-2.244h1.716l-1.32 7.657h-1.585zM16.159 17.98c0 0.442 0.175 0.66 0.528 0.66 0.35 0 0.614-0.132 0.792-0.396 0.264-0.264 0.396-0.66 0.396-1.188h-0.397c-0.881 0-1.32 0.31-1.32 0.924zM31.076 15.076c-0.088 0-0.178-0.043-0.264-0.132h-0.264c-0.528 0-0.881 0.353-1.056 1.056h1.848v-0.396l-0.132-0.264c-0.001-0.086-0.047-0.175-0.133-0.264zM43.617 17.98c0 0.442 0.175 0.66 0.528 0.66 0.35 0 0.614-0.132 0.792-0.396 0.264-0.264 0.396-0.66 0.396-1.188h-0.396c-0.881 0-1.32 0.31-1.32 0.924zM53.782 15.076c-0.353 0-0.66 0.22-0.924 0.66-0.178 0.264-0.264 0.749-0.264 1.452 0 0.792 0.264 1.188 0.792 1.188 0.35 0 0.66-0.175 0.924-0.528 0.264-0.351 0.396-0.879 0.396-1.584-0.001-0.792-0.311-1.188-0.925-1.188z"></path>
+</svg>
+</div><div class="payment-icon"><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 64 32">
+<path d="M13.043 8.356c-0.46 0-0.873 0.138-1.24 0.413s-0.662 0.681-0.885 1.217c-0.223 0.536-0.334 1.112-0.334 1.727 0 0.568 0.119 0.99 0.358 1.265s0.619 0.413 1.141 0.413c0.508 0 1.096-0.131 1.765-0.393v1.327c-0.693 0.262-1.389 0.393-2.089 0.393-0.884 0-1.572-0.254-2.063-0.763s-0.736-1.229-0.736-2.161c0-0.892 0.181-1.712 0.543-2.462s0.846-1.32 1.452-1.709 1.302-0.584 2.089-0.584c0.435 0 0.822 0.038 1.159 0.115s0.7 0.217 1.086 0.421l-0.616 1.276c-0.369-0.201-0.673-0.333-0.914-0.398s-0.478-0.097-0.715-0.097zM19.524 12.842h-2.47l-0.898 1.776h-1.671l3.999-7.491h1.948l0.767 7.491h-1.551l-0.125-1.776zM19.446 11.515l-0.136-1.786c-0.035-0.445-0.052-0.876-0.052-1.291v-0.184c-0.153 0.408-0.343 0.84-0.569 1.296l-0.982 1.965h1.739zM27.049 12.413c0 0.711-0.257 1.273-0.773 1.686s-1.213 0.62-2.094 0.62c-0.769 0-1.389-0.153-1.859-0.46v-1.398c0.672 0.367 1.295 0.551 1.869 0.551 0.39 0 0.694-0.072 0.914-0.217s0.329-0.343 0.329-0.595c0-0.147-0.024-0.275-0.070-0.385s-0.114-0.214-0.201-0.309c-0.087-0.095-0.303-0.269-0.648-0.52-0.481-0.337-0.818-0.67-1.013-1s-0.293-0.685-0.293-1.066c0-0.439 0.108-0.831 0.324-1.176s0.523-0.614 0.922-0.806 0.857-0.288 1.376-0.288c0.755 0 1.446 0.168 2.073 0.505l-0.569 1.189c-0.543-0.252-1.044-0.378-1.504-0.378-0.289 0-0.525 0.077-0.71 0.23s-0.276 0.355-0.276 0.607c0 0.207 0.058 0.389 0.172 0.543s0.372 0.36 0.773 0.615c0.421 0.272 0.736 0.572 0.945 0.9s0.313 0.712 0.313 1.151zM33.969 14.618h-1.597l0.7-3.22h-2.46l-0.7 3.22h-1.592l1.613-7.46h1.597l-0.632 2.924h2.459l0.632-2.924h1.592l-1.613 7.46zM46.319 9.831c0 0.963-0.172 1.824-0.517 2.585s-0.816 1.334-1.415 1.722c-0.598 0.388-1.288 0.582-2.067 0.582-0.891 0-1.587-0.251-2.086-0.753s-0.749-1.198-0.749-2.090c0-0.902 0.172-1.731 0.517-2.488s0.82-1.338 1.425-1.743c0.605-0.405 1.306-0.607 2.099-0.607 0.888 0 1.575 0.245 2.063 0.735s0.73 1.176 0.73 2.056zM43.395 8.356c-0.421 0-0.808 0.155-1.159 0.467s-0.627 0.739-0.828 1.283-0.3 1.135-0.3 1.771c0 0.5 0.116 0.877 0.348 1.133s0.558 0.383 0.979 0.383 0.805-0.148 1.151-0.444c0.346-0.296 0.617-0.714 0.812-1.255s0.292-1.148 0.292-1.822c0-0.483-0.113-0.856-0.339-1.12-0.227-0.264-0.546-0.396-0.957-0.396zM53.427 14.618h-1.786l-1.859-5.644h-0.031l-0.021 0.163c-0.111 0.735-0.227 1.391-0.344 1.97l-0.757 3.511h-1.436l1.613-7.46h1.864l1.775 5.496h0.021c0.042-0.259 0.109-0.628 0.203-1.107s0.407-1.942 0.94-4.388h1.43l-1.613 7.461zM13.296 20.185c0 0.98-0.177 1.832-0.532 2.556s-0.868 1.274-1.539 1.652c-0.672 0.379-1.464 0.568-2.376 0.568h-2.449l1.678-7.68h2.15c0.977 0 1.733 0.25 2.267 0.751s0.801 1.219 0.801 2.154zM8.925 23.615c0.536 0 1.003-0.133 1.401-0.399s0.71-0.657 0.934-1.174c0.225-0.517 0.337-1.108 0.337-1.773 0-0.54-0.131-0.95-0.394-1.232s-0.64-0.423-1.132-0.423h-0.624l-1.097 5.001h0.575zM18.64 24.96h-4.436l1.678-7.68h4.442l-0.293 1.334h-2.78l-0.364 1.686h2.59l-0.299 1.334h-2.59l-0.435 1.98h2.78l-0.293 1.345zM20.509 24.96l1.678-7.68h1.661l-1.39 6.335h2.78l-0.294 1.345h-4.436zM26.547 24.96l1.694-7.68h1.656l-1.694 7.68h-1.656zM33.021 23.389c0.282-0.774 0.481-1.27 0.597-1.487l2.346-4.623h1.716l-4.061 7.68h-1.814l-0.689-7.68h1.602l0.277 4.623c0.015 0.157 0.022 0.39 0.022 0.699-0.007 0.361-0.018 0.623-0.033 0.788h0.038zM41.678 24.96h-4.437l1.678-7.68h4.442l-0.293 1.334h-2.78l-0.364 1.686h2.59l-0.299 1.334h-2.59l-0.435 1.98h2.78l-0.293 1.345zM45.849 22.013l-0.646 2.947h-1.656l1.678-7.68h1.949c0.858 0 1.502 0.179 1.933 0.536s0.646 0.881 0.646 1.571c0 0.554-0.15 1.029-0.451 1.426s-0.733 0.692-1.298 0.885l1.417 3.263h-1.803l-1.124-2.947h-0.646zM46.137 20.689h0.424c0.474 0 0.843-0.1 1.108-0.3s0.396-0.504 0.396-0.914c0-0.287-0.086-0.502-0.258-0.646s-0.442-0.216-0.812-0.216h-0.402l-0.456 2.076zM53.712 20.39l2.031-3.11h1.857l-3.355 4.744-0.646 2.936h-1.645l0.646-2.936-1.281-4.744h1.694l0.7 3.11z"></path>
+</svg>
+</div></div>      </div><!-- -right -->
+    
+    <div class="footer-primary pull-left">
+            <div class="copyright-footer">
+        ATPro Corp - Nhà sản xuất phần mềm, thiết bị Tự động hóa hàng đầu Việt Nam      </div>
+          </div><!-- .left -->
+  </div><!-- .container -->
+</div><!-- .absolute-footer -->
+<a href="#top" class="back-to-top button invert plain is-outline hide-for-medium icon circle fixed bottom z-1" id="top-link"><i class="icon-angle-up" ></i></a>
+
+</footer><!-- .footer-wrapper -->
+
+</div><!-- #wrapper -->
+
+<!-- Mobile Sidebar -->
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+    <div class="sidebar-menu no-scrollbar ">
+        <ul class="nav nav-sidebar  nav-vertical nav-uppercase">
+              <li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative form- is-normal"><form method="get" class="searchform" action="https://atpro.com.vn/" role="search">
+		<div class="flex-row relative">
+									<div class="flex-col flex-grow">
+			  <input type="search" class="search-field mb-0" name="s" value="" placeholder="Tìm kiếm&hellip;" />
+		    <input type="hidden" name="post_type" value="product" />
+        			</div><!-- .flex-col -->
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0">
+					<i class="icon-search" ></i>				</button>
+			</div><!-- .flex-col -->
+		</div><!-- .flex-row -->
+	 <div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31176"><a href="https://atpro.com.vn/danh-muc/cam-bien-cong-nghiep-hang-noi-tieng-the-gioi/" class="nav-top-link">CẢM BIẾN &#8211; SENSOR</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-31062"><a href="#" class="nav-top-link">THIẾT BỊ TỰ ĐỘNG HÓA</a>
+<ul class=children>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31068"><a href="https://atpro.com.vn/danh-muc/phan-mem-scada-thuong-hieu-viet-atscada/">PHẦN MỀM SCADA</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31067"><a href="https://atpro.com.vn/danh-muc/may-tinh-cong-nghiep/">MÁY TÍNH CÔNG NGHIỆP</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31064"><a href="https://atpro.com.vn/danh-muc/man-hinh-hmi/">MÀN HÌNH HMI</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31063"><a href="https://atpro.com.vn/danh-muc/bo-dieu-khien-plc/">BỘ ĐIỀU KHIỂN PLC</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31066"><a href="https://atpro.com.vn/danh-muc/bo-chuyen-tin-hieu/">BỘ CHUYỂN TÍN HIỆU</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31065"><a href="https://atpro.com.vn/danh-muc/iot-gateway/">IoT GATEWAY</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28939"><a href="https://atpro.com.vn/danh-muc/giai-phap-quan-ly/" class="nav-top-link">GIẢI PHÁP QUẢN LÝ</a>
+<ul class=children>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151"><a href="https://atpro.com.vn/danh-muc/dong-ho-dien-tu/">ĐỒNG HỒ ĐIỆN TỬ</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-610"><a href="https://atpro.com.vn/danh-muc/quan-ly-dien-nang/">QUẢN LÝ ĐIỆN NĂNG</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1648"><a href="https://atpro.com.vn/danh-muc/quan-ly-bai-do-xe-parking-system-toll-station/">QUẢN LÝ BÃI ĐỖ XE</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612"><a href="http://www.antuongpro.com/he-thong-quan-ly-giam-sat-tram-can-co-xu-ly-anh-so-tai-cj-vinh-long/">KIỂM SOÁT VÀO RA</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1596"><a href="https://atpro.com.vn/san-pham/quan-ly-trang-trai-chan-nuoi-su-dung-plcpis/">QUẢN LÝ TRANG TRẠI CHĂN NUÔI</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1599"><a href="https://atpro.com.vn/san-pham/quan-ly-trang-trai-trong-trot/">QUẢN LÝ TRANG TRẠI TRỒNG TRỌT</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420"><a href="https://atpro.com.vn/danh-muc/quan-ly-suat-an-cong-nghiep/">QUẢN LÝ SUẤT ĂN</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3078"><a href="https://atpro.com.vn/danh-muc/he-thong-lay-so-thu-tu/" class="nav-top-link">GIẢI PHÁP XẾP HÀNG</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-401"><a href="https://atpro.com.vn/danh-muc/do-nhiet-do-do-am" class="nav-top-link">GIÁM SÁT NHIỆT ẨM</a>
+<ul class=children>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-585"><a href="https://atpro.com.vn/danh-muc/giam-sat-phong-may-chu/">GIÁM SÁT CẢNH BÁO PHÒNG SERVER</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-586"><a href="https://atpro.com.vn/danh-muc/san-pham-he-thong-giam-sat-nhiet-do-cua-atpro/">GIÁM SÁT CẢNH BÁO KHO TỦ LẠNH</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-608"><a href="https://atpro.com.vn/danh-muc/quan-ly-san-xuat-nang-tam-chat-luong-san-xuat/" class="nav-top-link">QUẢN LÝ NĂNG SUẤT</a>
+<ul class=children>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-609"><a href="https://atpro.com.vn/danh-muc/bo-dem-san-pham-hien-thi-so/">BỘ ĐẾM SẢN PHẨM</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30683"><a href="https://atpro.com.vn/danh-muc/he-thong-canh-bao-trong-san-xuat/">HỆ THỐNG ANDON</a></li>
+</ul>
+</li>
+<li class="account-item has-icon menu-item">
+<a href="https://atpro.com.vn/my-account/"
+    class="nav-top-link nav-top-not-logged-in">
+    <span class="header-account-title">
+    Đăng nhập  </span>
+</a><!-- .account-login-link -->
+
+</li>
+<li class="html custom html_topbar_right"><font color="#fac100" size = "4"><b> HOTLINE: 028.3842.5001 - 028.3842.5226</b></font></li>        </ul>
+    </div><!-- inner -->
+</div><!-- #mobile-menu -->
+			<div class="zalo-chat-widget" data-oaid="4135856981338804837" data-welcome-message="Rất vui khi được hỗ trợ bạn!" data-autopopup="0" data-width="350" data-height="420"></div>
+			<script src="https://sp.zalo.me/plugins/sdk.js"></script>
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145176754-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145176754-1');
+</script>
+    <div id="login-form-popup" class="lightbox-content mfp-hide">
+            
+
+<div class="woocommerce-notices-wrapper"></div>
+<div class="account-container lightbox-inner">
+
+				<div class="account-login-inner">
+
+				<h3 class="uppercase">Đăng nhập</h3>
+
+				<form class="woocommerce-form woocommerce-form-login login" method="post">
+
+					
+					<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+						<label for="username">Tên tài khoản hoặc địa chỉ email <span class="required">*</span></label>
+						<input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" value="" />
+					</p>
+					<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+						<label for="password">Mật khẩu <span class="required">*</span></label>
+						<input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" />
+					</p>
+
+					
+					<p class="form-row">
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="74c32b5e8b" /><input type="hidden" name="_wp_http_referer" value="/" />						<input type="submit" class="woocommerce-Button button" name="login" value="Đăng nhập" />
+						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox inline">
+							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Ghi nhớ mật khẩu</span>
+						</label>
+					</p>
+					<p class="woocommerce-LostPassword lost_password">
+						<a href="https://atpro.com.vn/my-account/lost-password/">Quên mật khẩu?</a>
+					</p>
+
+					
+				</form>
+			</div><!-- .login-inner -->
+
+			
+</div><!-- .account-login-container -->
+
+          </div>
+  	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Rất tiếc, sản phẩm này hiện không tồn tại. Hãy chọn một phương thức kết hợp khác.</p>
+</script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Xem gi\u1ecf h\u00e0ng","cart_url":"https:\/\/atpro.com.vn\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.8.0'></script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.8.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_7a9b37391c8ea75218aebd76eb3ccbbc","fragment_name":"wc_fragments_7a9b37391c8ea75218aebd76eb3ccbbc","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.8.0'></script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.4.0'></script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var flatsomeVars = {"ajaxurl":"https:\/\/atpro.com.vn\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.4.0'></script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.4.0'></script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-includes/js/wp-embed.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-includes/js/wp-util.min.js?ver=5.2.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"R\u1ea5t ti\u1ebfc, kh\u00f4ng c\u00f3 s\u1ea3n ph\u1ea9m n\u00e0o ph\u00f9 h\u1ee3p v\u1edbi l\u1ef1a ch\u1ecdn c\u1ee7a b\u1ea1n. H\u00e3y ch\u1ecdn m\u1ed9t ph\u01b0\u01a1ng th\u1ee9c k\u1ebft h\u1ee3p kh\u00e1c.","i18n_make_a_selection_text":"Ch\u1ecdn c\u00e1c t\u00f9y ch\u1ecdn cho s\u1ea3n ph\u1ea9m tr\u01b0\u1edbc khi cho s\u1ea3n ph\u1ea9m v\u00e0o gi\u1ecf h\u00e0ng c\u1ee7a b\u1ea1n.","i18n_unavailable_text":"R\u1ea5t ti\u1ebfc, s\u1ea3n ph\u1ea9m n\u00e0y hi\u1ec7n kh\u00f4ng t\u1ed3n t\u1ea1i. H\u00e3y ch\u1ecdn m\u1ed9t ph\u01b0\u01a1ng th\u1ee9c k\u1ebft h\u1ee3p kh\u00e1c."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=3.8.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"https:\/\/atpro.com.vn\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pwsL10n = {"unknown":"M\u1eadt kh\u1ea9u m\u1ea1nh kh\u00f4ng x\u00e1c \u0111\u1ecbnh","short":"R\u1ea5t y\u1ebfu","bad":"Y\u1ebfu","good":"Trung b\u00ecnh","strong":"M\u1ea1nh","mismatch":"M\u1eadt kh\u1ea9u kh\u00f4ng kh\u1edbp"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-admin/js/password-strength-meter.min.js?ver=5.2.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_password_strength_meter_params = {"min_password_strength":"3","stop_checkout":"","i18n_password_error":"Vui l\u00f2ng nh\u1eadp m\u1eadt kh\u1ea9u kh\u00f3 h\u01a1n.","i18n_password_hint":"G\u1ee3i \u00fd: M\u1eadt kh\u1ea9u ph\u1ea3i c\u00f3 \u00edt nh\u1ea5t 12 k\u00fd t\u1ef1. \u0110\u1ec3 n\u00e2ng cao \u0111\u1ed9 b\u1ea3o m\u1eadt, s\u1eed d\u1ee5ng ch\u1eef in hoa, in th\u01b0\u1eddng, ch\u1eef s\u1ed1 v\u00e0 c\u00e1c k\u00fd t\u1ef1 \u0111\u1eb7c bi\u1ec7t nh\u01b0 ! \" ? $ % ^ & )."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://atpro.com.vn/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=3.8.0'></script>
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.899 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-03-14 13:51:46 -->
+
+<!-- super cache -->
